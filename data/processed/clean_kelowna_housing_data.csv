@@ -12,7 +12,7 @@ waterfront resort,3000,"west kelowna, bc, v4t",Townhouse,4,3,Not specified,Not s
 2 beds 1 bath apartment,2000,"west kelowna, bc, v4t",Apartment/Condo,2,1,in-unit laundry,electric heating,street parking,Not specified,Not specified,No pets,760,49.83173,-119.62367,43,49,-1
 3 beds 2 baths house,3250,"west kelowna, bc, v4t",House,3,2,in-unit laundry,central heating,street parking,central ac,unfurnished,No pets,2000,49.83173,-119.62367,43,49,-1
 1 bed 1 bath apartment,1250,"kelowna, bc, v1v",Apartment/Condo,1,1,laundry in building,Not specified,parking available,Not specified,unfurnished,No pets,910,49.94804,-119.42824,8,35,19
-3 beds 2 baths apartment,900,"kelowna, bc, v1v",Apartment/Condo,3,2,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,910,49.94804,-119.42824,8,35,19
+3 beds 2 baths apartment,900,"kelowna, bc, v1v",Room,1,1,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,150,49.94804,-119.42824,8,35,19
 4 beds 3 baths house,2800,"kelowna, bc, v1v",House,4,3,laundry available,heating available,garage parking,ac available,Not specified,dog and cat friendly,1200,49.94804,-119.42824,8,35,19
 2 beds 1 bath apartment,1800,"kelowna, bc, v1v",Apartment/Condo,2,1,in-unit laundry,central heating,street parking,central ac,unfurnished,dog and cat friendly,800,49.94804,-119.42824,8,35,19
 1 bed 1 bath townhouse,1200,"kelowna, bc, v1v",Townhouse,1,1,Not specified,Not specified,Not specified,Not specified,Not specified,No pets,1371,49.94804,-119.42824,8,35,19
@@ -37,7 +37,7 @@ room for rent,975,"kelowna, bc, v1v",Room,1,1,Not specified,Not specified,Not sp
 2 beds 1 bath house,2200,"kelowna, bc, v1v",House,2,1,in-unit laundry,central heating,street parking,central ac,unfurnished,No pets,1200,49.94804,-119.42824,8,35,19
 2 beds 2 baths apartment,2500,"kelowna, bc, v1v",Apartment/Condo,2,2,in-unit laundry,Not specified,garage parking,central ac,unfurnished,dog and cat friendly,1200,49.94804,-119.42824,8,35,19
 2 beds 2 baths townhouse,2700,"kelowna, bc, v1v",Townhouse,2,2,in-unit laundry,gas heating,garage parking,central ac,unfurnished,No pets,1371,49.94804,-119.42824,8,35,19
-3 beds 3 baths apartment,867,"kelowna, bc, v1v",Apartment/Condo,3,3,in-unit laundry,heating available,parking available,ac available,unfurnished,No pets,910,49.94804,-119.42824,8,35,19
+3 beds 3 baths apartment,867,"kelowna, bc, v1v",Room,1,1,in-unit laundry,heating available,parking available,ac available,unfurnished,No pets,150,49.94804,-119.42824,8,35,19
 2 beds 2 baths apartment,2200,"kelowna, bc, v1v",Apartment/Condo,2,2,in-unit laundry,heating available,parking available,ac available,Not specified,No pets,1076,49.94804,-119.42824,8,35,19
 1 bedroom available in 2 bedroom basement suite,650,"west kelowna, bc",Room,1,1,in-unit laundry,central heating,street parking,Not specified,unfurnished,No pets,150,49.85902,-119.58413,6,23,-1
 1 bed 1 bath house,1300,"west kelowna, bc",House,1,1,in-unit laundry,electric heating,parking available,Not specified,unfurnished,No pets,1200,49.85902,-119.58413,6,23,-1
@@ -105,7 +105,7 @@ room for rent cozy in large house,740,"west kelowna, bc",Room,1,1,Not specified,
 private room for rent,1100,"west kelowna, bc",Room,1,1,in-unit laundry,central heating,parking available,central ac,unfurnished,No pets,150,49.85902,-119.58413,6,23,-1
 1 bed 1 bath house,1925,"west kelowna, bc",House,1,1,in-unit laundry,electric heating,parking available,central ac,unfurnished,No pets,1200,49.85902,-119.58413,6,23,-1
 2 beds 2 baths house,2800,"west kelowna, bc",House,2,2,in-unit laundry,heating available,street parking,ac available,unfurnished,dog and cat friendly,1700,49.85902,-119.58413,6,23,-1
-rent  one large bedroom,1100,"west kelowna, bc",House,3,2,in-unit laundry,central heating,parking available,central ac,furnished,No pets,1300,49.85902,-119.58413,6,23,-1
+rent  one large bedroom,1100,"west kelowna, bc",Room,1,1,in-unit laundry,central heating,parking available,central ac,furnished,No pets,150,49.85902,-119.58413,6,23,-1
 1 bed 1 bath flat,2000,"west kelowna, bc",Apartment/Condo,1,1,laundry in building,central heating,parking available,central ac,Not specified,No pets,900,49.85902,-119.58413,6,23,-1
 1 bed 1 bath flat,2000,"west kelowna, bc",Apartment/Condo,1,1,laundry in building,central heating,parking available,central ac,Not specified,No pets,910,49.85902,-119.58413,6,23,-1
 private room for rent,1100,"west kelowna, bc",Room,1,1,in-unit laundry,heating available,parking available,central ac,furnished,No pets,150,49.85902,-119.58413,6,23,-1
@@ -117,14 +117,14 @@ private room for rent,500,"kelowna, bc",Room,1,1,Not specified,Not specified,par
 1 bed 1 bath apartment,1800,"kelowna, bc",Apartment/Condo,1,1,in-unit laundry,electric heating,parking available,ac available,unfurnished,dog and cat friendly,750,49.88698,-119.49661,64,98,59
 studio 1 bath apartment,1300,"kelowna, bc",Apartment/Condo,1,1,laundry in building,radiator heating,parking available,ac available,Not specified,No pets,450,49.88698,-119.49661,64,98,59
 1 bed 1 bath house,750,"kelowna, bc",House,1,1,laundry available,Not specified,parking available,Not specified,unfurnished,No pets,1200,49.88698,-119.49661,64,98,59
-house,600,"kelowna, bc",House,3,2,in-unit laundry,gas heating,parking available,central ac,unfurnished,No pets,1200,49.88698,-119.49661,64,98,59
+house,600,"kelowna, bc",Room,1,1,in-unit laundry,gas heating,parking available,central ac,unfurnished,No pets,150,49.88698,-119.49661,64,98,59
 1 bed 1 bath house,1450,"kelowna, bc",House,1,1,laundry available,central heating,street parking,central ac,unfurnished,No pets,650,49.88698,-119.49661,64,98,59
 4 beds 2 baths house,2850,"kelowna, bc",House,4,2,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,1200,49.88698,-119.49661,64,98,59
 2 beds 1 bath house,1650,"kelowna, bc",House,2,1,Not specified,electric heating,street parking,Not specified,unfurnished,dog and cat friendly,800,49.88698,-119.49661,64,98,59
-5 beds 2 baths house,500,"kelowna, bc",House,5,2,laundry available,electric heating,parking available,ac available,unfurnished,dog and cat friendly,150,49.88698,-119.49661,64,98,59
+5 beds 2 baths house,500,"kelowna, bc",Room,1,1,laundry available,electric heating,parking available,ac available,unfurnished,dog and cat friendly,150,49.88698,-119.49661,64,98,59
 1 bed 1 bath house,750,"kelowna, bc",House,1,1,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,1200,49.88698,-119.49661,64,98,59
 1 bed 1 bath house,1600,"kelowna, bc",House,1,1,Not specified,Not specified,Not specified,Not specified,unfurnished,dog and cat friendly,1200,49.88698,-119.49661,64,98,59
-3 beds 2 5 baths townhouse,1100,"kelowna, bc",Townhouse,3,2,in-unit laundry,central heating,parking available,central ac,Not specified,No pets,1371,49.88698,-119.49661,64,98,59
+3 beds 2 5 baths townhouse,1100,"kelowna, bc",Room,1,1,in-unit laundry,central heating,parking available,central ac,Not specified,No pets,150,49.88698,-119.49661,64,98,59
 2 beds 1 bath house,1800,"kelowna, bc",House,2,1,in-unit laundry,gas heating,parking available,ac available,Not specified,dog and cat friendly,1200,49.88698,-119.49661,64,98,59
 1 bed 1 bath apartment,1550,"kelowna, bc",Apartment/Condo,1,1,laundry in building,central heating,parking available,central ac,unfurnished,No pets,910,49.88698,-119.49661,64,98,59
 2 beds 1 bath house,2100,"kelowna, bc",House,2,1,in-unit laundry,central heating,parking available,central ac,Not specified,No pets,1200,49.88698,-119.49661,64,98,59
@@ -199,7 +199,7 @@ studio 1 bath house,500,"kelowna, bc",House,1,1,Not specified,central heating,ga
 2 beds 2 baths apartment,2200,"kelowna, bc",Apartment/Condo,2,2,in-unit laundry,central heating,garage parking,central ac,unfurnished,No pets,910,49.88698,-119.49661,64,98,59
 3 beds 1 bath house,2500,"kelowna, bc",House,3,1,laundry available,Not specified,Not specified,Not specified,unfurnished,No pets,1200,49.88698,-119.49661,64,98,59
 3 bedrrom 1 bathroom,2600,"kelowna, bc",House,3,1,in-unit laundry,central heating,parking available,central ac,unfurnished,dog and cat friendly,1000,49.88698,-119.49661,64,98,59
-3 beds 1 bath house,800,"kelowna, bc",House,3,1,in-unit laundry,central heating,street parking,central ac,unfurnished,No pets,1200,49.88698,-119.49661,64,98,59
+3 beds 1 bath house,800,"kelowna, bc",Room,1,1,in-unit laundry,central heating,street parking,central ac,unfurnished,No pets,150,49.88698,-119.49661,64,98,59
 1 bed 1 bath house,1600,"kelowna, bc",House,1,1,Not specified,Not specified,Not specified,Not specified,Not specified,No pets,1200,49.88698,-119.49661,64,98,59
 2 beds 2 baths apartment,2100,"kelowna, bc",Apartment/Condo,2,2,in-unit laundry,electric heating,street parking,Not specified,unfurnished,No pets,885,49.88698,-119.49661,64,98,59
 1 bed 1 bath townhouse,1200,"kelowna, bc",Townhouse,1,1,laundry in building,central heating,garage parking,central ac,furnished,No pets,1371,49.88698,-119.49661,64,98,59
@@ -225,7 +225,7 @@ feb march availability at big white  sleeps 12  w private hot tub sauna  5 bedro
 3 beds 2 5 baths townhouse,5082,"kelowna, bc",Townhouse,3,2,Not specified,Not specified,Not specified,Not specified,Not specified,No pets,1371,49.88698,-119.49661,64,98,59
 studio 0 baths house,1700,"kelowna, bc",House,1,0,Not specified,heating available,street parking,Not specified,unfurnished,No pets,2000,49.88698,-119.49661,64,98,59
 private room for rent,850,"kelowna, bc",Room,1,1,in-unit laundry,electric heating,street parking,central ac,furnished,No pets,150,49.88698,-119.49661,64,98,59
-3 beds 3 baths apartment,1200,"kelowna, bc",Apartment/Condo,3,3,Not specified,Not specified,Not specified,Not specified,Not specified,No pets,910,49.88698,-119.49661,64,98,59
+3 beds 3 baths apartment,1200,"kelowna, bc",Room,1,1,Not specified,Not specified,Not specified,Not specified,Not specified,No pets,150,49.88698,-119.49661,64,98,59
 1 bed 1 bath house,700,"kelowna, bc",House,1,1,in-unit laundry,Not specified,Not specified,Not specified,unfurnished,No pets,1200,49.88698,-119.49661,64,98,59
 studio 0 baths house,650,"kelowna, bc",House,1,0,Not specified,Not specified,street parking,Not specified,Not specified,dog and cat friendly,180,49.88698,-119.49661,64,98,59
 2 beds 1 bath house,2100,"kelowna, bc",House,2,1,in-unit laundry,central heating,Not specified,central ac,unfurnished,No pets,1200,49.88698,-119.49661,64,98,59
@@ -263,7 +263,7 @@ room for rent,850,"kelowna, bc",Room,1,1,Not specified,Not specified,Not specifi
 1 bed 1 bath apartment,800,"kelowna, bc",Apartment/Condo,1,1,in-unit laundry,central heating,Not specified,central ac,unfurnished,No pets,910,49.88698,-119.49661,64,98,59
 1 bed 1 bath house,1000,"kelowna, bc",House,1,1,laundry available,Not specified,parking available,ac available,unfurnished,No pets,1200,49.88698,-119.49661,64,98,59
 3 beds 2 baths apartment,3000,"kelowna, bc",Apartment/Condo,3,2,in-unit laundry,central heating,parking available,ac available,Not specified,No pets,1500,49.88698,-119.49661,64,98,59
-1 room in a 2 bed 1 bath apartment,600,"kelowna, bc",Apartment/Condo,2,1,Not specified,Not specified,Not specified,Not specified,Not specified,No pets,910,49.88698,-119.49661,64,98,59
+1 room in a 2 bed 1 bath apartment,600,"kelowna, bc",Room,1,1,Not specified,Not specified,Not specified,Not specified,Not specified,No pets,150,49.88698,-119.49661,64,98,59
 2 beds 1 bath house,1950,"kelowna, bc",House,2,1,in-unit laundry,central heating,street parking,central ac,Not specified,cat friendly,1200,49.88698,-119.49661,64,98,59
 3 beds 2 5 baths townhouse,3100,"kelowna, bc",Townhouse,3,2,in-unit laundry,central heating,garage parking,central ac,Not specified,No pets,1371,49.88698,-119.49661,64,98,59
 1 bed 1 bath house,1300,"kelowna, bc",House,1,1,in-unit laundry,Not specified,parking available,Not specified,unfurnished,No pets,1200,49.88698,-119.49661,64,98,59
@@ -299,7 +299,7 @@ klo furnished 2 bed  1 bath basement suite,2000,"kelowna, bc",House,2,1,in-unit 
 2 beds 2 baths townhouse,2200,"kelowna, bc",Townhouse,2,2,in-unit laundry,Not specified,parking available,Not specified,unfurnished,No pets,1371,49.88698,-119.49661,64,98,59
 office space available downtown kelowna,800,"kelowna, bc",Apartment/Condo,1,1,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,430,49.88698,-119.49661,64,98,59
 2 beds 1 bath townhouse,1600,"kelowna, bc",Townhouse,2,1,Not specified,Not specified,Not specified,Not specified,unfurnished,cat friendly,1371,49.88698,-119.49661,64,98,59
-4 beds 3 baths house,850,"kelowna, bc",House,4,3,in-unit laundry,gas heating,parking available,central ac,unfurnished,No pets,2700,49.88698,-119.49661,64,98,59
+4 beds 3 baths house,850,"kelowna, bc",Room,1,1,in-unit laundry,gas heating,parking available,central ac,unfurnished,No pets,150,49.88698,-119.49661,64,98,59
 2 beds 2 baths apartment,1900,"kelowna, bc",Apartment/Condo,2,2,in-unit laundry,electric heating,garage parking,ac available,unfurnished,No pets,910,49.88698,-119.49661,64,98,59
 1 bed 1 bath flat,1950,"kelowna, bc",Apartment/Condo,1,1,in-unit laundry,radiator heating,garage parking,central ac,unfurnished,No pets,728,49.88698,-119.49661,64,98,59
 1 bed 1 bath house,1950,"kelowna, bc",House,1,1,in-unit laundry,Not specified,street parking,Not specified,unfurnished,No pets,1200,49.88698,-119.49661,64,98,59
@@ -322,27 +322,27 @@ beautiful home for rent main floor,3000,"kelowna, bc",House,3,2,Not specified,No
 1 bed 1 bath house,1300,"kelowna, bc",House,1,1,Not specified,heating available,parking available,Not specified,unfurnished,No pets,1200,49.88698,-119.49661,64,98,59
 central downtown long or short term,2880,"kelowna, bc",House,2,1,in-unit laundry,heating available,garage parking,ac available,unfurnished,dog and cat friendly,1200,49.88698,-119.49661,64,98,59
 2 beds 1 bath house,2800,"kelowna, bc",House,2,1,laundry in building,gas heating,garage parking,central ac,unfurnished,No pets,3000,49.88698,-119.49661,64,98,59
-basement for rent,800,"kelowna, bc",Room,2,1,laundry available,gas heating,parking available,ac available,unfurnished,No pets,1200,49.88698,-119.49661,64,98,59
+basement for rent,800,"kelowna, bc",Room,1,1,laundry available,gas heating,parking available,ac available,unfurnished,No pets,150,49.88698,-119.49661,64,98,59
 bachelor s basement suite for rent,1000,"kelowna, bc",Apartment/Condo,1,1,Not specified,Not specified,Not specified,Not specified,Not specified,No pets,700,49.88698,-119.49661,64,98,59
 2 beds 1 bath apartment,2000,"kelowna, bc",Apartment/Condo,2,1,in-unit laundry,electric heating,street parking,central ac,unfurnished,No pets,830,49.88698,-119.49661,64,98,59
 private room for rent,1250,"kelowna, bc",Room,1,1,laundry available,central heating,parking available,central ac,furnished,No pets,150,49.88698,-119.49661,64,98,59
-elegant room in downtown character home,1000,"kelowna, bc",House,3,1,in-unit laundry,central heating,street parking,central ac,furnished,No pets,120,49.88698,-119.49661,64,98,59
+elegant room in downtown character home,1000,"kelowna, bc",Room,1,1,in-unit laundry,central heating,street parking,central ac,furnished,No pets,150,49.88698,-119.49661,64,98,59
 two open rooms in rutland,900,"kelowna, bc",Room,1,1,Not specified,Not specified,Not specified,Not specified,Not specified,No pets,150,49.88698,-119.49661,64,98,59
 1 bed 1 bath house,1700,"kelowna, bc",House,1,1,in-unit laundry,gas heating,street parking,ac available,unfurnished,No pets,1200,49.88698,-119.49661,64,98,59
 private room for rent,799,"kelowna, bc",Room,1,1,laundry available,central heating,street parking,central ac,furnished,No pets,150,49.88698,-119.49661,64,98,59
-4 beds 3 5 baths townhouse,800,"kelowna, bc",Townhouse,4,3,in-unit laundry,central heating,street parking,Not specified,unfurnished,No pets,1371,49.88698,-119.49661,64,98,59
+4 beds 3 5 baths townhouse,800,"kelowna, bc",Room,1,1,in-unit laundry,central heating,street parking,Not specified,unfurnished,No pets,150,49.88698,-119.49661,64,98,59
 separate entry 1 bed 1 bath,950,"kelowna, bc",Room,1,1,Not specified,Not specified,Not specified,Not specified,Not specified,No pets,150,49.88698,-119.49661,64,98,59
 2 beds 1 5 baths house,2500,"kelowna, bc",House,2,1,in-unit laundry,heating available,parking available,ac available,Not specified,dog and cat friendly,940,49.88698,-119.49661,64,98,59
 private room for rent,1000,"kelowna, bc",Room,1,1,in-unit laundry,Not specified,street parking,Not specified,unfurnished,cat friendly,150,49.88698,-119.49661,64,98,59
 2 beds 2 baths apartment,2500,"kelowna, bc",Apartment/Condo,2,2,Not specified,electric heating,Not specified,Not specified,unfurnished,No pets,950,49.88698,-119.49661,64,98,59
 private room for rent,1070,"kelowna, bc",Room,1,1,laundry available,electric heating,street parking,Not specified,furnished,dog and cat friendly,150,49.88698,-119.49661,64,98,59
-4 beds 2 baths apartment,950,"kelowna, bc",Apartment/Condo,4,2,in-unit laundry,central heating,street parking,central ac,Not specified,No pets,910,49.88698,-119.49661,64,98,59
+4 beds 2 baths apartment,950,"kelowna, bc",Room,1,1,in-unit laundry,central heating,street parking,central ac,Not specified,No pets,150,49.88698,-119.49661,64,98,59
 private room for rent,1050,"kelowna, bc",Room,1,1,in-unit laundry,central heating,street parking,central ac,furnished,No pets,150,49.88698,-119.49661,64,98,59
 1 bed 3 baths townhouse,900,"kelowna, bc",Room,1,1,in-unit laundry,central heating,street parking,central ac,unfurnished,No pets,150,49.88698,-119.49661,64,98,59
 1 bed 1 bath house,950,"kelowna, bc",House,1,1,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,1200,49.88698,-119.49661,64,98,59
 2 beds 1 bath house,900,"kelowna, bc",House,2,1,laundry available,heating available,street parking,ac available,unfurnished,No pets,1020,49.88698,-119.49661,64,98,59
 1 bed 1 bath house,600,"kelowna, bc",House,1,1,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,1200,49.88698,-119.49661,64,98,59
-furnished room in well appointed townhouse,850,"kelowna, bc",Townhouse,3,2,Not specified,Not specified,Not specified,Not specified,furnished,No pets,1371,49.88698,-119.49661,64,98,59
+furnished room in well appointed townhouse,850,"kelowna, bc",Room,1,1,Not specified,Not specified,Not specified,Not specified,furnished,No pets,150,49.88698,-119.49661,64,98,59
 3 bedroom main floor for rent,2900,"kelowna, bc",Apartment/Condo,3,2,Not specified,Not specified,Not specified,Not specified,Not specified,No pets,910,49.88698,-119.49661,64,98,59
 bedroom for rent,1250,"kelowna, bc",Room,1,1,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,150,49.88698,-119.49661,64,98,59
 1 bed 1 bath townhouse,1100,"kelowna, bc",Townhouse,1,1,in-unit laundry,central heating,garage parking,central ac,Not specified,No pets,1371,49.88698,-119.49661,64,98,59
@@ -353,7 +353,7 @@ bedroom for rent,1250,"kelowna, bc",Room,1,1,Not specified,Not specified,Not spe
 2 beds 2 baths apartment,2650,"kelowna, bc",Apartment/Condo,2,2,in-unit laundry,central heating,garage parking,ac available,unfurnished,dog and cat friendly,1000,49.88698,-119.49661,64,98,59
 3 beds 3 baths townhouse,4000,"kelowna, bc",Townhouse,3,3,laundry available,gas heating,garage parking,ac available,unfurnished,No pets,2000,49.88698,-119.49661,64,98,59
 executive condo,3500,"kelowna, bc",Townhouse,4,3,in-unit laundry,central heating,garage parking,central ac,unfurnished,No pets,2700,49.88698,-119.49661,64,98,59
-3 beds 3 baths apartment,867,"kelowna, bc",Apartment/Condo,3,3,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,910,49.88698,-119.49661,64,98,59
+3 beds 3 baths apartment,867,"kelowna, bc",Room,1,1,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,150,49.88698,-119.49661,64,98,59
 2 beds 2 baths apartment,2500,"kelowna, bc",Apartment/Condo,2,2,in-unit laundry,heating available,street parking,ac available,Not specified,No pets,900,49.88698,-119.49661,64,98,59
 1 bed 1 bath apartment,2250,"kelowna, bc",Apartment/Condo,1,1,in-unit laundry,heating available,garage parking,ac available,unfurnished,dog friendly,910,49.88698,-119.49661,64,98,59
 2 beds 1 bath house,2150,"kelowna, bc",House,2,1,in-unit laundry,central heating,street parking,central ac,Not specified,dog and cat friendly,1200,49.88698,-119.49661,64,98,59
@@ -375,7 +375,7 @@ winter rental in amazing location,3000,"kelowna, bc",House,3,1,laundry in buildi
 2 beds 2 baths apartment,2400,"kelowna, bc",Apartment/Condo,2,2,in-unit laundry,central heating,parking available,central ac,unfurnished,No pets,1500,49.88698,-119.49661,64,98,59
 1 bed 1 bath apartment,2500,"kelowna, bc",Apartment/Condo,1,1,in-unit laundry,central heating,street parking,central ac,Not specified,No pets,950,49.88698,-119.49661,64,98,59
 1 bed 2 baths townhouse,950,"kelowna, bc",Townhouse,1,2,Not specified,Not specified,Not specified,Not specified,Not specified,No pets,1371,49.88698,-119.49661,64,98,59
-3 beds 2 baths house,1042,"kelowna, bc",House,3,2,Not specified,Not specified,Not specified,Not specified,unfurnished,dog and cat friendly,1200,49.88698,-119.49661,64,98,59
+3 beds 2 baths house,1042,"kelowna, bc",Room,1,1,Not specified,Not specified,Not specified,Not specified,unfurnished,dog and cat friendly,150,49.88698,-119.49661,64,98,59
 2 beds 1 bath house,1400,"kelowna, bc",House,2,1,Not specified,central heating,parking available,central ac,unfurnished,cat friendly,1200,49.88698,-119.49661,64,98,59
 2 beds 1 bath house,2000,"kelowna, bc",House,2,1,in-unit laundry,central heating,street parking,central ac,unfurnished,No pets,960,49.88698,-119.49661,64,98,59
 1 bed 1 bath apartment,1950,"kelowna, bc",Apartment/Condo,1,1,in-unit laundry,electric heating,street parking,Not specified,unfurnished,No pets,910,49.88698,-119.49661,64,98,59
@@ -386,7 +386,7 @@ one bedroom ensuite for rent in glenmore,800,"kelowna, bc",Room,1,1,laundry avai
 private room for rent,1000,"kelowna, bc",Room,1,1,Not specified,heating available,street parking,ac available,unfurnished,No pets,150,49.88698,-119.49661,64,98,59
 private room for rent,1350,"kelowna, bc",Room,1,1,in-unit laundry,central heating,Not specified,central ac,furnished,No pets,150,49.88698,-119.49661,64,98,59
 room for rent,1000,"kelowna, bc",Room,1,1,in-unit laundry,Not specified,parking available,ac available,unfurnished,No pets,150,49.88698,-119.49661,64,98,59
-6 beds 2 baths house,900,"kelowna, bc",House,6,2,laundry available,Not specified,street parking,Not specified,Not specified,dog and cat friendly,2156,49.88698,-119.49661,64,98,59
+6 beds 2 baths house,900,"kelowna, bc",Room,1,1,laundry available,Not specified,street parking,Not specified,Not specified,dog and cat friendly,150,49.88698,-119.49661,64,98,59
 2 beds 2 baths apartment,2800,"kelowna, bc",Apartment/Condo,2,2,in-unit laundry,central heating,garage parking,central ac,unfurnished,No pets,800,49.88698,-119.49661,64,98,59
 2 beds 2 baths apartment,3000,"kelowna, bc",Apartment/Condo,2,2,in-unit laundry,central heating,garage parking,central ac,Not specified,dog friendly,910,49.88698,-119.49661,64,98,59
 room available near ubco,1200,"kelowna, bc",Townhouse,1,1,in-unit laundry,central heating,garage parking,central ac,furnished,No pets,1371,49.88698,-119.49661,64,98,59
@@ -412,9 +412,9 @@ park your trailer,1234,"kelowna, bc",House,1,1,Not specified,Not specified,parki
 1 bed 1 bath house,850,"kelowna, bc",House,1,1,laundry available,central heating,street parking,central ac,unfurnished,No pets,1200,49.88698,-119.49661,64,98,59
 rental furnished suite,2300,"kelowna, bc",Apartment/Condo,2,2,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,910,49.88698,-119.49661,64,98,59
 1 bed 1 bath townhouse,995,"kelowna, bc",Townhouse,1,1,in-unit laundry,electric heating,street parking,Not specified,Not specified,No pets,1371,49.88698,-119.49661,64,98,59
-1 bed 1 bath house,980,"kelowna, bc",House,4,2,laundry available,gas heating,parking available,central ac,unfurnished,dog and cat friendly,2500,49.88698,-119.49661,64,98,59
+1 bed 1 bath house,980,"kelowna, bc",Room,1,1,laundry available,gas heating,parking available,central ac,unfurnished,dog and cat friendly,150,49.88698,-119.49661,64,98,59
 room for rent,950,"kelowna, bc",Room,1,1,in-unit laundry,gas heating,parking available,central ac,unfurnished,No pets,150,49.88698,-119.49661,64,98,59
-4 beds 2 baths house,1150,"kelowna, bc",House,4,2,in-unit laundry,central heating,street parking,central ac,furnished,No pets,1200,49.88698,-119.49661,64,98,59
+4 beds 2 baths house,1150,"kelowna, bc",Room,1,1,in-unit laundry,central heating,street parking,central ac,furnished,No pets,150,49.88698,-119.49661,64,98,59
 1 bed 1 bath apartment,2300,"kelowna, bc",Apartment/Condo,1,1,in-unit laundry,central heating,garage parking,central ac,Not specified,No pets,950,49.88698,-119.49661,64,98,59
 room for rent available in rutland,850,"kelowna, bc",Room,1,1,Not specified,Not specified,Not specified,Not specified,Not specified,No pets,150,49.88698,-119.49661,64,98,59
 room for rent for girls in rutland dm for more info,900,"kelowna, bc",Room,1,1,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,150,49.88698,-119.49661,64,98,59
@@ -429,7 +429,7 @@ room for rent 5 minute drive to ubco,950,"kelowna, bc, v1v 1w4",Room,1,1,laundry
 private room for rent,750,"kelowna, bc, v1y 7v3",Room,1,1,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,150,49.88457,-119.43779,68,91,58
 1 bed 1 bathroom flat,1450,"kelowna, bc, v1y 6n7",Apartment/Condo,1,1,Not specified,Not specified,Not specified,central ac,unfurnished,No pets,800,49.88637,-119.49416,64,98,59
 private room for rent,800,"kelowna, bc, v1x 7p3",Room,1,1,laundry available,central heating,parking available,central ac,unfurnished,No pets,150,49.90683,-119.37863,37,51,48
-3 beds 2 baths house,550,"kelowna, bc, v1x 1v1",House,3,2,in-unit laundry,central heating,parking available,Not specified,unfurnished,No pets,1200,49.886,-119.41152,53,79,52
+3 beds 2 baths house,550,"kelowna, bc, v1x 1v1",Room,1,1,in-unit laundry,central heating,parking available,Not specified,unfurnished,No pets,150,49.886,-119.41152,53,79,52
 studio 1 bath house,850,"kelowna, bc, v1y 6x9",House,1,1,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,450,49.89119,-119.48783,55,99,57
 1 bed 1 5 baths house,1500,"kelowna, bc, v1y 6x9",House,1,1,in-unit laundry,heating available,parking available,ac available,Not specified,dog and cat friendly,1200,49.89119,-119.48783,55,99,57
 2 beds 1 bath apartment,1600,"kelowna, bc, v1y 7m9",Apartment/Condo,2,1,in-unit laundry,central heating,parking available,central ac,unfurnished,No pets,910,49.90308,-119.4876,9,64,33
@@ -449,7 +449,7 @@ studio 1 bath apartment,1400,"kelowna, bc, v1y 0e5",Apartment/Condo,1,1,in-unit 
 3 beds 1 bath house,2500,"kelowna, bc, v1y",House,3,1,laundry in building,Not specified,Not specified,Not specified,unfurnished,dog and cat friendly,1200,49.88698,-119.49661,64,98,59
 private room for rent,1300,"kelowna, bc, v1y",Room,1,1,in-unit laundry,Not specified,Not specified,central ac,furnished,No pets,150,49.88698,-119.49661,64,98,59
 1 bed 1 bath house,850,"kelowna, bc, v1y",House,1,1,in-unit laundry,central heating,parking available,Not specified,Not specified,No pets,1200,49.88698,-119.49661,64,98,59
-2 beds 1 bath apartment,875,"kelowna, bc, v1y",Apartment/Condo,2,1,Not specified,central heating,Not specified,central ac,unfurnished,No pets,910,49.88698,-119.49661,64,98,59
+2 beds 1 bath apartment,875,"kelowna, bc, v1y",Room,1,1,Not specified,central heating,Not specified,central ac,unfurnished,No pets,150,49.88698,-119.49661,64,98,59
 1 bed 1 bath apartment,900,"kelowna, bc, v1y",Apartment/Condo,1,1,laundry in building,gas heating,street parking,central ac,Not specified,No pets,910,49.88698,-119.49661,64,98,59
 4 beds 4 baths house,10800,"kelowna, bc, v1y",House,4,4,in-unit laundry,central heating,garage parking,central ac,unfurnished,No pets,3300,49.88698,-119.49661,64,98,59
 1 bed 1 bath house,1350,"kelowna, bc, v1y",House,1,1,laundry in building,central heating,street parking,central ac,Not specified,No pets,1200,49.88698,-119.49661,64,98,59
@@ -463,17 +463,17 @@ room for rent,1000,"kelowna, bc, v1y",Room,1,1,in-unit laundry,electric heating,
 2 beds 2 baths apartment,2800,"kelowna, bc, v1y",Apartment/Condo,2,2,Not specified,Not specified,parking available,ac available,unfurnished,No pets,1180,49.88698,-119.49661,64,98,59
 private room for rent,850,"kelowna, bc, v1y",Room,1,1,laundry available,Not specified,Not specified,Not specified,unfurnished,No pets,150,49.88698,-119.49661,64,98,59
 2 beds 2 baths apartment,2800,"kelowna, bc, v1y",Apartment/Condo,2,2,in-unit laundry,heating available,garage parking,ac available,Not specified,No pets,1138,49.88698,-119.49661,64,98,59
-2 beds 2 baths house,815,"kelowna, bc, v1y",House,2,2,Not specified,Not specified,Not specified,Not specified,Not specified,No pets,1200,49.88698,-119.49661,64,98,59
-2 beds 2 baths apartment,850,"kelowna, bc, v1y",Apartment/Condo,2,2,in-unit laundry,electric heating,street parking,Not specified,Not specified,No pets,910,49.88698,-119.49661,64,98,59
+2 beds 2 baths house,815,"kelowna, bc, v1y",Room,1,1,Not specified,Not specified,Not specified,Not specified,Not specified,No pets,150,49.88698,-119.49661,64,98,59
+2 beds 2 baths apartment,850,"kelowna, bc, v1y",Room,1,1,in-unit laundry,electric heating,street parking,Not specified,Not specified,No pets,150,49.88698,-119.49661,64,98,59
 2 beds 1 bath house,900,"kelowna, bc, v1y",House,2,1,laundry in building,Not specified,parking available,Not specified,Not specified,No pets,1200,49.88698,-119.49661,64,98,59
-4 beds 3 baths townhouse,950,"kelowna, bc, v1y",Townhouse,4,3,in-unit laundry,central heating,street parking,central ac,Not specified,No pets,1400,49.88698,-119.49661,64,98,59
+4 beds 3 baths townhouse,950,"kelowna, bc, v1y",Room,1,1,in-unit laundry,central heating,street parking,central ac,Not specified,No pets,150,49.88698,-119.49661,64,98,59
 2 beds 2 baths house,2700,"kelowna, bc, v1y",House,2,2,laundry in building,Not specified,Not specified,Not specified,Not specified,dog friendly,1200,49.88698,-119.49661,64,98,59
 2 beds 1 bath townhouse,1000,"kelowna, bc, v1y",Townhouse,2,1,in-unit laundry,electric heating,parking available,ac available,unfurnished,No pets,1371,49.88698,-119.49661,64,98,59
 furnished 2 beds 2 bath flat,3750,"kelowna, bc, v1y",Apartment/Condo,2,2,in-unit laundry,heating available,garage parking,ac available,Not specified,dog and cat friendly,1100,49.88698,-119.49661,64,98,59
 2 beds 1 bath house,1795,"kelowna, bc, v1y 8c8",House,2,1,in-unit laundry,Not specified,parking available,Not specified,Not specified,dog and cat friendly,1200,49.86855,-119.48284,56,95,46
 1 bed 1 bath house,700,"kelowna, bc, v1p 1n7",House,1,1,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,1200,49.87046,-119.35901,25,39,25
 1 bed 1 bath house,700,"kelowna, bc, v1p 1n7",House,1,1,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,1200,49.87046,-119.35901,25,39,25
-3 beds 3 baths apartment,1234,"kelowna, bc, v1v 0c8",Apartment/Condo,3,3,in-unit laundry,Not specified,garage parking,Not specified,unfurnished,No pets,910,49.93357,-119.4015,22,27,45
+3 beds 3 baths apartment,1234,"kelowna, bc, v1v 0c8",Room,1,1,in-unit laundry,Not specified,garage parking,Not specified,unfurnished,No pets,150,49.93357,-119.4015,22,27,45
 3 beds 3 baths apartment,3000,"kelowna, bc, v1v 0c8",Apartment/Condo,3,3,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,910,49.93357,-119.4015,22,27,45
 1 bed 1 bath house,1000,"kelowna, bc, v1y 4r9",House,1,1,Not specified,Not specified,Not specified,Not specified,Not specified,No pets,1200,49.88087,-119.44985,60,92,59
 1 bed 1 bath house,1155,"kelowna, bc, v1y 4r9",House,1,1,laundry available,central heating,parking available,central ac,Not specified,dog and cat friendly,1200,49.88087,-119.44985,60,92,59
@@ -489,9 +489,9 @@ private room for rent,650,"kelowna, bc, v1w 3x2",Room,1,1,laundry available,cent
 1 bed 1 bath house,1650,"kelowna, bc, v1x",House,1,1,in-unit laundry,gas heating,street parking,Not specified,Not specified,No pets,750,49.90764,-119.38974,44,51,50
 1 bed 1 bath house,800,"kelowna, bc, v1x",House,1,1,Not specified,central heating,parking available,central ac,unfurnished,dog and cat friendly,1200,49.90764,-119.38974,44,51,50
 two bedroom top floor suite pet friendly,2000,"kelowna, bc, v1x",Apartment/Condo,2,1,in-unit laundry,central heating,garage parking,central ac,unfurnished,dog and cat friendly,600,49.90764,-119.38974,44,51,50
-2 beds 2 baths house,800,"kelowna, bc, v1x",House,2,2,laundry available,Not specified,parking available,Not specified,unfurnished,No pets,1200,49.90764,-119.38974,44,51,50
+2 beds 2 baths house,800,"kelowna, bc, v1x",Room,1,1,laundry available,Not specified,parking available,Not specified,unfurnished,No pets,150,49.90764,-119.38974,44,51,50
 2 bedroom and 1 bathroom brand new condo,2500,"kelowna, bc, v1x",Apartment/Condo,2,1,in-unit laundry,heating available,parking available,central ac,unfurnished,No pets,910,49.90764,-119.38974,44,51,50
-3 beds 1 5 baths townhouse,850,"kelowna, bc, v1x",Townhouse,3,1,laundry available,central heating,parking available,ac available,unfurnished,No pets,1371,49.90764,-119.38974,44,51,50
+3 beds 1 5 baths townhouse,850,"kelowna, bc, v1x",Room,1,1,laundry available,central heating,parking available,ac available,unfurnished,No pets,150,49.90764,-119.38974,44,51,50
 1 bedroom 1 bath legal basement suite,1375,"kelowna, bc, v1w 4n2",House,1,1,in-unit laundry,electric heating,street parking,central ac,unfurnished,No pets,450,49.82611,-119.47776,5,39,29
 4 beds 2 baths house,3000,"kelowna, bc, v1y 6m2",House,4,2,in-unit laundry,gas heating,street parking,central ac,unfurnished,No pets,1200,49.88543,-119.47985,60,88,56
 1 bed 1 bath apartment,1200,"west kelowna, bc, v4t 2z5",Apartment/Condo,1,1,in-unit laundry,central heating,parking available,ac available,unfurnished,No pets,910,49.83205,-119.61095,21,26,-1
@@ -543,7 +543,7 @@ like brand new 4 bed 2 bath,2900,"kelowna, bc, v1y 8s1",House,4,2,in-unit laundr
 1 bed 1 bath house,800,"kelowna, bc, v1y 6b9",House,1,1,laundry available,Not specified,parking available,Not specified,unfurnished,No pets,1200,49.882,-119.47102,57,93,56
 2 beds 1 bath apartment,1050,"kelowna, bc, v1y 4v3",Apartment/Condo,2,1,Not specified,Not specified,Not specified,Not specified,Not specified,No pets,910,49.89929,-119.44785,14,63,37
 2 beds 1 bath apartment,1050,"kelowna, bc, v1y 4v3",Apartment/Condo,2,1,Not specified,Not specified,Not specified,Not specified,Not specified,No pets,910,49.89929,-119.44785,14,63,37
-3室3卫 租赁式公寓,900,"kelowna, bc, v1v 0a2",Apartment/Condo,3,3,in-unit laundry,central heating,parking available,ac available,unfurnished,No pets,910,49.9354,-119.40044,26,27,47
+3室3卫 租赁式公寓,900,"kelowna, bc, v1v 0a2",Room,1,1,in-unit laundry,central heating,parking available,ac available,unfurnished,No pets,150,49.9354,-119.40044,26,27,47
 2 beds 2 baths apartment,1000,"kelowna, bc, v1v 0a2",Apartment/Condo,2,2,in-unit laundry,heating available,Not specified,ac available,Not specified,No pets,910,49.9354,-119.40044,26,27,47
 1 or 2 bed 2 baths house,950,"kelowna, bc, v1y 8h7",House,1,2,laundry available,gas heating,parking available,central ac,unfurnished,No pets,1200,49.87776,-119.46797,49,97,54
 1 bed 1 bath apartment,1000,"kelowna, bc, v1y 1r9",Apartment/Condo,1,1,in-unit laundry,Not specified,street parking,Not specified,Not specified,No pets,950,49.87931,-119.49309,63,97,59
@@ -556,7 +556,7 @@ like brand new 4 bed 2 bath,2900,"kelowna, bc, v1y 8s1",House,4,2,in-unit laundr
 1 bed 1 bath apartment,1300,"kelowna, bc, v1y 9z4",Apartment/Condo,1,1,in-unit laundry,central heating,garage parking,ac available,Not specified,No pets,910,49.89555,-119.49726,38,98,39
 2 beds 2 baths apartment,2500,"kelowna, bc, v1y 9z4",Apartment/Condo,2,2,in-unit laundry,electric heating,garage parking,ac available,unfurnished,No pets,900,49.89555,-119.49726,38,98,39
 2 beds 2 baths apartment,2500,"kelowna, bc, v1y 9z4",Apartment/Condo,2,2,in-unit laundry,electric heating,garage parking,ac available,unfurnished,No pets,780,49.89555,-119.49726,38,98,39
-5 beds 2 baths house,600,"kelowna, bc, v1x 4g5",House,5,2,laundry available,Not specified,parking available,Not specified,Not specified,No pets,1200,49.88616,-119.41484,56,81,53
+5 beds 2 baths house,600,"kelowna, bc, v1x 4g5",Room,1,1,laundry available,Not specified,parking available,Not specified,Not specified,No pets,150,49.88616,-119.41484,56,81,53
 3 beds 1 bath house,2500,"kelowna, bc, v1y 2j6",House,3,1,in-unit laundry,central heating,street parking,central ac,Not specified,No pets,6000,49.90251,-119.48841,24,88,35
 1 bed 1 bath apartment,1200,"vernon, bc, v1t 7p9",Apartment/Condo,1,1,laundry available,central heating,parking available,central ac,Not specified,No pets,910,50.25489,-119.30388,12,38,24
 1 bed 1 bath house,788,"vernon, bc, v1t 7p9",House,1,1,laundry available,central heating,parking available,central ac,Not specified,No pets,1200,50.25489,-119.30388,12,38,24
@@ -668,7 +668,6 @@ private room for rent,900,"kelowna, bc, v1y 6j9",Room,1,1,Not specified,Not spec
 4 beds 2 5 baths house,4000,"kelowna, bc, v1v 2n9",House,4,2,in-unit laundry,Not specified,street parking,Not specified,unfurnished,No pets,1200,49.8929,-119.44283,5,35,44
 5 beds 3 baths house,3500,"central okanagan, bc, v0h",House,5,3,in-unit laundry,central heating,Not specified,Not specified,unfurnished,dog and cat friendly,3300,49.95449,-119.45097,0,16,0
 5 beds 3 baths house,3250,"central okanagan, bc, v0h",House,5,3,in-unit laundry,central heating,parking available,Not specified,Not specified,No pets,2200,49.95449,-119.45097,0,16,0
-3 beds 2 5 baths house,1234,"central okanagan, bc, v0h",House,3,2,in-unit laundry,Not specified,parking available,Not specified,Not specified,No pets,1200,49.95449,-119.45097,0,16,0
 1 bed 1 bath townhouse,1200,"lake country, bc, v4v 0a8",Townhouse,1,1,Not specified,Not specified,parking available,Not specified,unfurnished,No pets,1371,50.0735,-119.41721,14,16,-1
 4 beds 3 baths townhouse,3250,"lake country, bc, v4v 0a8",Townhouse,4,3,laundry available,gas heating,garage parking,central ac,Not specified,dog and cat friendly,1625,50.0735,-119.41721,14,16,-1
 3 beds 3 baths townhouse,3400,"lake country, bc, v4v 0a8",Townhouse,3,3,Not specified,Not specified,garage parking,Not specified,unfurnished,No pets,1371,50.0735,-119.41721,14,16,-1
@@ -743,7 +742,7 @@ room for rent,650,"vernon, bc, v1t 1y3",Room,1,1,Not specified,Not specified,Not
 4 beds 4 baths house,5000,"west kelowna, bc, v4t 3j1",House,4,4,in-unit laundry,central heating,garage parking,central ac,Not specified,No pets,3700,49.84713,-119.57178,0,15,-1
 2 beds 1 bath house,2300,"kelowna, bc, v1x 3n7",House,2,1,in-unit laundry,gas heating,garage parking,ac available,Not specified,dog and cat friendly,1200,49.87749,-119.39385,35,51,38
 1 bed 1 bath house,1100,"kelowna, bc, v1x 4e8",House,1,1,Not specified,Not specified,Not specified,Not specified,Not specified,No pets,1200,49.89387,-119.41276,62,83,49
-4 beds 3 baths apartment,1050,"kelowna, bc, v1x 4e8",Apartment/Condo,4,3,in-unit laundry,central heating,parking available,central ac,Not specified,No pets,910,49.89387,-119.41276,62,83,49
+4 beds 3 baths apartment,1050,"kelowna, bc, v1x 4e8",Room,1,1,in-unit laundry,central heating,parking available,central ac,Not specified,No pets,150,49.89387,-119.41276,62,83,49
 4 beds 2 baths house,3500,"kelowna, bc, v1x 4e8",House,4,2,in-unit laundry,Not specified,parking available,Not specified,unfurnished,dog friendly,1200,49.89387,-119.41276,62,83,49
 1 bed 1 bath house,1320,"kelowna, bc, v1x 4e8",House,1,1,in-unit laundry,central heating,parking available,central ac,Not specified,No pets,1200,49.89387,-119.41276,62,83,49
 4 beds 2 baths house,3600,"kelowna, bc, v1w 5g7",House,4,2,laundry available,central heating,garage parking,central ac,unfurnished,No pets,2770,49.80155,-119.48789,13,37,27
@@ -851,9 +850,9 @@ timber valley at big white ski resort,12345,"kootenay boundary, bc",Apartment/Co
 4 beds 2 baths apartment,3200,"lake country, bc, v4v 1y1",Apartment/Condo,4,2,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,910,50.05293,-119.41083,43,21,-1
 ground floor 2 bedroom lakefront condo,2000,"lake country, bc, v4v 1y1",Apartment/Condo,2,1,laundry in building,Not specified,parking available,ac available,unfurnished,No pets,910,50.05293,-119.41083,43,21,-1
 room in shared acomm available,850,"north okanagan, bc, v1b 3m6",Room,1,1,Not specified,Not specified,Not specified,Not specified,Not specified,No pets,150,50.35722,-119.10514,0,2,-1
-4 beds 3 baths house,900,"kelowna, bc, v1w 4l8",House,4,3,laundry in building,central heating,street parking,central ac,Not specified,No pets,1200,49.79814,-119.50126,10,31,23
+4 beds 3 baths house,900,"kelowna, bc, v1w 4l8",Room,1,1,laundry in building,central heating,street parking,central ac,Not specified,No pets,150,49.79814,-119.50126,10,31,23
 1 bed 1 bath room only,975,"kelowna, bc, v1x 5y7",Room,1,1,Not specified,central heating,street parking,central ac,unfurnished,No pets,150,49.8985,-119.398,62,79,51
-2 beds 1 bath house,650,"kelowna, bc, v1x 5y7",House,2,1,laundry in building,Not specified,street parking,Not specified,unfurnished,No pets,1200,49.8985,-119.398,62,79,51
+2 beds 1 bath house,650,"kelowna, bc, v1x 5y7",Room,1,1,laundry in building,Not specified,street parking,Not specified,unfurnished,No pets,150,49.8985,-119.398,62,79,51
 3 beds 2 baths house,2500,"kelowna, bc, v1x 5y7",House,3,2,laundry in building,central heating,parking available,central ac,Not specified,No pets,2200,49.8985,-119.398,62,79,51
 1 bed 1 bath townhouse,975,"kelowna, bc, v1x 5y7",Townhouse,1,1,Not specified,Not specified,street parking,Not specified,unfurnished,No pets,1371,49.8985,-119.398,62,79,51
 2 beds 1 bath house,1800,"west kelowna, bc, v4t 2b4",House,2,1,in-unit laundry,gas heating,parking available,central ac,Not specified,dog and cat friendly,950,49.82892,-119.63319,44,45,-1
@@ -870,7 +869,7 @@ house for rent,3000,"kelowna, bc, v1y 4z9",House,2,1,laundry available,Not speci
 1 bed 1 bath apartment,1595,"penticton, bc, v2a",Apartment/Condo,1,1,Not specified,Not specified,Not specified,Not specified,unfurnished,dog and cat friendly,910,49.50022,-119.59384,51,79,-1
 3 beds 3 baths house,4100,"peachland, bc, v0h 1x5",House,3,3,in-unit laundry,heating available,street parking,ac available,unfurnished,dog friendly,1200,49.78714,-119.72972,7,22,-1
 3 beds 3 baths house,3300,"kelowna, bc, v1w 4p2",House,3,3,in-unit laundry,central heating,street parking,central ac,Not specified,dog and cat friendly,2500,49.80976,-119.47641,10,41,25
-5 beds 2 baths house,450,"kelowna, bc, v1x 5n2",House,5,2,in-unit laundry,central heating,parking available,central ac,unfurnished,No pets,1200,49.87582,-119.39305,25,44,37
+5 beds 2 baths house,450,"kelowna, bc, v1x 5n2",Room,1,1,in-unit laundry,central heating,parking available,central ac,unfurnished,No pets,150,49.87582,-119.39305,25,44,37
 2 beds 1 bath house,1600,"vernon, bc, v1t 3x1",House,2,1,laundry available,central heating,parking available,central ac,unfurnished,No pets,1200,50.26302,-119.25248,59,48,23
 3 beds 2 5 baths house,4500,"kelowna, bc, v1x 4v2",House,3,2,in-unit laundry,heating available,parking available,ac available,unfurnished,No pets,1200,49.89996,-119.37215,20,46,44
 3 beds 3 baths house,3200,"kelowna, bc, v1v 2a2",House,3,3,in-unit laundry,central heating,garage parking,central ac,Not specified,No pets,1200,49.96139,-119.40012,15,12,22
@@ -879,7 +878,7 @@ house for rent,3000,"kelowna, bc, v1y 4z9",House,2,1,laundry available,Not speci
 2 beds 1 bath house,2200,"kelowna, bc, v1w 4p4",House,2,1,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,1200,49.81023,-119.47726,10,40,25
 2 beds 1 5 baths house,2500,"vernon, bc, v1t 3j5",House,2,1,in-unit laundry,electric heating,street parking,ac available,unfurnished,No pets,1160,50.27374,-119.2651,79,62,37
 4 beds 2 baths house,2495,"penticton, bc, v2a 4w8",House,4,2,laundry available,electric heating,parking available,ac available,Not specified,cat friendly,1200,49.49519,-119.5832,43,69,-1
-3 beds 2 baths apartment,1000,"kelowna, bc, v1v 3c9",Apartment/Condo,3,2,in-unit laundry,Not specified,Not specified,Not specified,unfurnished,cat friendly,910,49.93632,-119.40024,29,29,49
+3 beds 2 baths apartment,1000,"kelowna, bc, v1v 3c9",Room,1,1,in-unit laundry,Not specified,Not specified,Not specified,unfurnished,cat friendly,150,49.93632,-119.40024,29,29,49
 1 bed 2 baths apartment,1050,"kelowna, bc, v1v 3c9",Apartment/Condo,1,2,laundry available,heating available,parking available,ac available,Not specified,dog and cat friendly,910,49.93632,-119.40024,29,29,49
 private room for rent,1050,"kelowna, bc, v1v 3c9",Room,1,1,in-unit laundry,central heating,street parking,central ac,unfurnished,No pets,150,49.93632,-119.40024,29,29,49
 room for rent,900,"west kelowna, bc, v1z 2k5",Room,1,1,in-unit laundry,central heating,parking available,Not specified,unfurnished,No pets,150,49.85947,-119.56131,5,33,-1
@@ -893,9 +892,9 @@ executive rental 2 brm plus loft,2350,"vernon, bc, v1t 3j2",House,3,1,in-unit la
 home in la casa for rent,2250,"central okanagan, bc, v1z 3r8",House,3,2,in-unit laundry,gas heating,parking available,central ac,unfurnished,dog friendly,1160,50.1175,-119.50986,0,4,-1
 3 beds 2 baths house,1850,"central okanagan, bc, v1z 3r8",House,3,2,Not specified,Not specified,Not specified,Not specified,Not specified,No pets,1200,50.1175,-119.50986,0,4,-1
 2 beds 2 baths house,12345,"central okanagan, bc, v1z 3r8",House,2,2,in-unit laundry,central heating,parking available,central ac,Not specified,dog friendly,1100,50.1175,-119.50986,0,4,-1
-3 beds 3 baths house,500,"central okanagan, bc, v1z 3r8",House,3,3,in-unit laundry,Not specified,garage parking,Not specified,unfurnished,dog friendly,1300,50.1175,-119.50986,0,4,-1
+3 beds 3 baths house,500,"central okanagan, bc, v1z 3r8",Room,1,1,in-unit laundry,Not specified,garage parking,Not specified,unfurnished,dog friendly,150,50.1175,-119.50986,0,4,-1
 full lakefront home with panoramic views of okanagan lake  3br 2bath  located in la casa resort,3456,"central okanagan, bc, v1z 3r8",House,3,2,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,1200,50.1175,-119.50986,0,4,-1
-come stay with us pet friendly kelowna cottage,1111,"central okanagan, bc, v1z 3r8",House,3,2,Not specified,Not specified,Not specified,Not specified,unfurnished,dog friendly,1200,50.1175,-119.50986,0,4,-1
+come stay with us pet friendly kelowna cottage,1111,"central okanagan, bc, v1z 3r8",Room,1,1,Not specified,Not specified,Not specified,Not specified,unfurnished,dog friendly,150,50.1175,-119.50986,0,4,-1
 rooms for rent,1400,"kelowna, bc, v1x 8h3",House,1,1,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,1200,49.91687,-119.38667,39,48,46
 2 beds 1 bath apartment,2000,"kelowna, bc, v1p 1s5",Apartment/Condo,2,1,in-unit laundry,electric heating,street parking,Not specified,unfurnished,No pets,910,49.87443,-119.35421,19,34,25
 2 beds 1 bath apartment,1950,"peachland, bc, v0h 1x4",Apartment/Condo,2,1,in-unit laundry,radiator heating,parking available,Not specified,Not specified,dog and cat friendly,910,49.77594,-119.74119,2,25,-1
@@ -946,11 +945,11 @@ studio 1 bath apartment,1600,"penticton, bc, v2a 1b8",Apartment/Condo,1,1,Not sp
 2 beds 1 bath house,1950,"penticton, bc, v2a 6v9",House,2,1,in-unit laundry,heating available,garage parking,Not specified,Not specified,cat friendly,1200,49.46718,-119.59098,22,60,-1
 2 beds 1 bath house,1850,"kelowna, bc, v1x 1s2",House,2,1,Not specified,central heating,Not specified,central ac,unfurnished,No pets,1200,49.88493,-119.39056,79,78,49
 2 beds 1 bath house,2200,"kelowna, bc, v1x 1s2",House,2,1,laundry available,gas heating,garage parking,ac available,unfurnished,No pets,1200,49.88493,-119.39056,79,78,49
-3 beds 2 5 baths townhouse,1100,"kelowna, bc, v1v 0e8",Townhouse,3,2,in-unit laundry,heating available,street parking,ac available,unfurnished,No pets,1371,49.93328,-119.40162,22,27,45
+3 beds 2 5 baths townhouse,1100,"kelowna, bc, v1v 0e8",Room,1,1,in-unit laundry,heating available,street parking,ac available,unfurnished,No pets,150,49.93328,-119.40162,22,27,45
 1 bed 1 bath house,1100,"kelowna, bc, v1x 4e5",House,1,1,in-unit laundry,Not specified,Not specified,Not specified,unfurnished,No pets,1200,49.89041,-119.41252,65,77,52
 bedroom for rent,1000,"kelowna, bc, v1x 4e5",Room,1,1,in-unit laundry,gas heating,street parking,central ac,unfurnished,No pets,150,49.89041,-119.41252,65,77,52
-3 beds 3 baths townhouse,1000,"kelowna, bc, v1x 4e5",Townhouse,3,3,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,2500,49.89041,-119.41252,65,77,52
-3 beds 3 baths townhouse,1000,"kelowna, bc, v1x 4e5",Townhouse,3,3,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,1371,49.89041,-119.41252,65,77,52
+3 beds 3 baths townhouse,1000,"kelowna, bc, v1x 4e5",Room,1,1,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,150,49.89041,-119.41252,65,77,52
+3 beds 3 baths townhouse,1000,"kelowna, bc, v1x 4e5",Room,1,1,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,150,49.89041,-119.41252,65,77,52
 3 beds 1 bath townhouse,2000,"penticton, bc, v2a 6t6",Townhouse,3,1,in-unit laundry,central heating,street parking,ac available,unfurnished,No pets,1371,49.47071,-119.58954,28,62,-1
 3 beds 1 bath house,2500,"penticton, bc, v2a 6t6",House,3,1,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,1200,49.47071,-119.58954,28,62,-1
 2 beds 2 baths apartment,2300,"kelowna, bc, v1w 3w2",Apartment/Condo,2,2,in-unit laundry,heating available,street parking,ac available,Not specified,No pets,910,49.86035,-119.48082,62,85,49
@@ -962,7 +961,7 @@ bedroom for rent,1000,"kelowna, bc, v1x 4e5",Room,1,1,in-unit laundry,gas heatin
 studio 1 bath apartment,1700,"kelowna, bc, v1y 0h1",Apartment/Condo,1,1,in-unit laundry,gas heating,Not specified,central ac,Not specified,dog and cat friendly,311,49.88566,-119.49359,66,96,59
 2 beds 2 baths apartment,2500,"kelowna, bc, v1y 0h1",Apartment/Condo,2,2,in-unit laundry,central heating,garage parking,central ac,Not specified,No pets,870,49.88566,-119.49359,66,96,59
 studio parking laundry long term downtown,1900,"kelowna, bc, v1y 0h1",Apartment/Condo,1,1,Not specified,Not specified,Not specified,Not specified,unfurnished,dog and cat friendly,910,49.88566,-119.49359,66,96,59
-3 beds 1 bath house,700,"kelowna, bc, v1x 6b1",House,3,1,laundry available,central heating,parking available,Not specified,unfurnished,No pets,1200,49.89458,-119.41103,61,84,49
+3 beds 1 bath house,700,"kelowna, bc, v1x 6b1",Room,1,1,laundry available,central heating,parking available,Not specified,unfurnished,No pets,150,49.89458,-119.41103,61,84,49
 2 beds 2 baths apartment,2400,"lake country, bc, v4v 2r5",Apartment/Condo,2,2,in-unit laundry,heating available,garage parking,ac available,unfurnished,dog and cat friendly,925,50.02013,-119.40328,53,26,-1
 1 bed 1 bath apartment,1850,"kelowna, bc, v1y 1a7",Apartment/Condo,1,1,laundry available,electric heating,Not specified,ac available,Not specified,No pets,750,49.88179,-119.50015,50,99,58
 room for rent,725,"kelowna, bc, v1v 3a8",Room,1,1,Not specified,Not specified,Not specified,Not specified,Not specified,No pets,150,49.92272,-119.405,26,26,31
@@ -970,26 +969,26 @@ room for rent,725,"kelowna, bc, v1v 3a8",Room,1,1,Not specified,Not specified,No
 2 beds 1 bath house,2000,"kelowna, bc, v1v 1t3",House,2,1,laundry available,Not specified,Not specified,Not specified,unfurnished,No pets,1200,49.92246,-119.44301,47,82,37
 2 bedroom suite with lots of windows,1900,"west kelowna, bc, v4t 3k4",Apartment/Condo,2,1,in-unit laundry,Not specified,Not specified,Not specified,unfurnished,No pets,900,49.8703,-119.61425,0,3,-1
 studio 0 baths apartment,750,"north okanagan, bc, v1b 3n9",Apartment/Condo,1,0,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,910,50.31232,-119.19053,0,2,-1
-6 beds 3 baths house,625,"kelowna, bc, v1x 3m5",House,6,3,laundry in building,Not specified,street parking,Not specified,furnished,No pets,1200,49.8884,-119.39384,86,73,49
+6 beds 3 baths house,625,"kelowna, bc, v1x 3m5",Room,1,1,laundry in building,Not specified,street parking,Not specified,furnished,No pets,150,49.8884,-119.39384,86,73,49
 2 beds 1 bath apartment,1600,"vernon, bc, v1t 1l9",Apartment/Condo,2,1,laundry in building,electric heating,street parking,ac available,Not specified,No pets,1000,50.25906,-119.28475,62,28,37
 charming character home for rent,2600,"kelowna, bc, v1y 6a9",House,3,1,in-unit laundry,Not specified,street parking,Not specified,unfurnished,No pets,1200,49.88209,-119.48137,58,94,59
 1 室1 卫 租赁式公寓,1200,"kelowna, bc, v1v 0a5",Apartment/Condo,1,1,in-unit laundry,central heating,parking available,central ac,unfurnished,dog and cat friendly,910,49.93465,-119.40117,24,29,47
 2 beds 2 baths apartment,2400,"kelowna, bc, v1v 0a5",Apartment/Condo,2,2,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,910,49.93465,-119.40117,24,29,47
-one bedroom in 3 bed 3 bath condo,1000,"kelowna, bc, v1v 0a5",Apartment/Condo,3,3,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,910,49.93465,-119.40117,24,29,47
+one bedroom in 3 bed 3 bath condo,1000,"kelowna, bc, v1v 0a5",Room,1,1,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,150,49.93465,-119.40117,24,29,47
 3 beds 3 baths house,3000,"penticton, bc, v2a 2v1",House,3,3,in-unit laundry,Not specified,Not specified,ac available,unfurnished,dog and cat friendly,3000,49.48643,-119.59784,26,71,-1
 2 bed 1 bath home,2500,"kelowna, bc, v1x 3l8",House,2,1,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,1200,49.89968,-119.39345,62,75,51
-4 beds 2 baths house,1234,"kelowna, bc, v1p 1a7",House,4,2,in-unit laundry,Not specified,street parking,Not specified,unfurnished,dog and cat friendly,1200,49.91221,-119.36354,3,35,26
+4 beds 2 baths house,1234,"kelowna, bc, v1p 1a7",Room,1,1,in-unit laundry,Not specified,street parking,Not specified,unfurnished,dog and cat friendly,150,49.91221,-119.36354,3,35,26
 2 beds 2 baths apartment,2695,"kelowna, bc, v1y 9z3",Apartment/Condo,2,2,in-unit laundry,electric heating,garage parking,central ac,Not specified,No pets,850,49.89561,-119.49732,38,98,39
 2 beds 2 baths flat,2800,"kelowna, bc, v1y 9z3",Apartment/Condo,2,2,in-unit laundry,electric heating,garage parking,ac available,unfurnished,No pets,1000,49.89561,-119.49732,38,98,39
 3 beds 3 baths townhouse,3395,"kelowna, bc, v1y 5p6",Townhouse,3,3,in-unit laundry,central heating,street parking,central ac,Not specified,dog and cat friendly,1371,49.87716,-119.48506,50,93,56
 3 beds 1 bath house,2750,"kelowna, bc, v1y 5p6",House,3,1,in-unit laundry,electric heating,parking available,Not specified,unfurnished,dog and cat friendly,1200,49.87716,-119.48506,50,93,56
 private room for rent,900,"kelowna, bc, v1x 1r3",Room,1,1,laundry available,central heating,street parking,ac available,unfurnished,No pets,150,49.88577,-119.40131,48,69,49
-3 beds 2 5 bath townhouse,925,"kelowna, bc, v1y 6w5",Townhouse,3,2,in-unit laundry,central heating,street parking,central ac,furnished,No pets,1371,49.88934,-119.47917,43,96,55
+3 beds 2 5 bath townhouse,925,"kelowna, bc, v1y 6w5",Room,1,1,in-unit laundry,central heating,street parking,central ac,furnished,No pets,150,49.88934,-119.47917,43,96,55
 3 beds 2 baths house,2900,"kelowna, bc, v1x 7c8",House,3,2,laundry in building,central heating,parking available,central ac,unfurnished,No pets,1200,49.90111,-119.38571,64,77,49
 entire apartment for sublet,3500,"kelowna, bc, v1y 9p7",Apartment/Condo,2,2,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,910,49.89463,-119.49608,45,99,40
 private room for rent,900,"kelowna, bc, v1y 5l9",Room,1,1,in-unit laundry,Not specified,street parking,Not specified,furnished,No pets,150,49.87537,-119.49322,53,92,54
 1 bed 1 bath house,1100,"kelowna, bc, v1y 5l9",House,1,1,in-unit laundry,Not specified,street parking,Not specified,unfurnished,dog and cat friendly,1200,49.87537,-119.49322,53,92,54
-2 beds 1 bath house,600,"kelowna, bc, v1x 7p4",House,2,1,in-unit laundry,central heating,Not specified,central ac,unfurnished,No pets,1200,49.90622,-119.37623,27,41,46
+2 beds 1 bath house,600,"kelowna, bc, v1x 7p4",Room,1,1,in-unit laundry,central heating,Not specified,central ac,unfurnished,No pets,150,49.90622,-119.37623,27,41,46
 1 bedroom in shared house,900,"kelowna, bc, v1x 7p4",House,1,1,Not specified,Not specified,street parking,Not specified,unfurnished,No pets,1200,49.90622,-119.37623,27,41,46
 5 beds 3 baths house,5000,"kelowna, bc, v1x 6r2",House,5,3,laundry available,central heating,garage parking,ac available,Not specified,dog and cat friendly,1200,49.87785,-119.36474,18,23,25
 rooms with kitchenette,2000,"kelowna, bc, v1x 6r2",House,2,1,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,1200,49.87785,-119.36474,18,23,25
@@ -1017,7 +1016,7 @@ spacious apartment for rental,2600,"kelowna, bc, v1y 9y2",Apartment/Condo,2,2,in
 2 beds 2 baths apartment,2300,"kelowna, bc, v1y 9w1",Apartment/Condo,2,2,in-unit laundry,Not specified,garage parking,Not specified,unfurnished,No pets,910,49.89602,-119.4979,38,98,39
 lakeside condo for rent,2500,"kelowna, bc, v1y 9w1",Apartment/Condo,2,2,laundry in building,central heating,garage parking,central ac,unfurnished,No pets,1100,49.89602,-119.4979,38,98,39
 spacious lower mission rancher for rent,5500,"kelowna, bc, v1w 1t5",House,7,4,Not specified,electric heating,street parking,Not specified,unfurnished,No pets,1200,49.8146,-119.483,18,67,28
-huge garden  1br  1 bath,850,"kelowna, bc, v1y 1v7",House,3,1,in-unit laundry,central heating,street parking,ac available,unfurnished,No pets,1300,49.86549,-119.49129,72,93,47
+huge garden  1br  1 bath,850,"kelowna, bc, v1y 1v7",Room,1,1,in-unit laundry,central heating,street parking,ac available,unfurnished,No pets,150,49.86549,-119.49129,72,93,47
 4 beds 3 baths house,4500,"lake country, bc, v4v 2s4",House,4,3,Not specified,Not specified,Not specified,Not specified,Not specified,No pets,1200,50.07336,-119.41425,12,21,-1
 1 bed 1 bath apartment,1625,"penticton, bc, v2a 3v5",Apartment/Condo,1,1,in-unit laundry,electric heating,parking available,central ac,unfurnished,No pets,910,49.45641,-119.58866,17,59,-1
 3 beds 2 baths house,3500,"west kelowna, bc, v4t 1w1",House,3,2,in-unit laundry,Not specified,Not specified,Not specified,unfurnished,No pets,1200,49.83888,-119.68729,0,3,-1
@@ -1029,9 +1028,9 @@ furnished one bedroom for rent,800,"vernon, bc, v1h 1p3",Room,1,1,Not specified,
 1 bed 1 bath apartment,1300,"kelowna, bc, v1v 2x3",Apartment/Condo,1,1,in-unit laundry,central heating,street parking,central ac,unfurnished,No pets,910,49.94419,-119.4374,13,28,19
 private room for rent,800,"west kelowna, bc, v4t 1w3",Room,1,1,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,150,49.84387,-119.67881,4,4,-1
 2 beds 1 bath townhouse,2100,"west kelowna, bc, v1z 3j7",Townhouse,2,1,in-unit laundry,central heating,street parking,central ac,Not specified,dog and cat friendly,1300,49.86293,-119.53512,0,23,-1
-fully furnished student residency,900,"kelowna, bc, v1x 2z3",Apartment/Condo,4,2,laundry in building,central heating,Not specified,central ac,unfurnished,No pets,1100,49.88776,-119.38686,88,85,49
-4 beds 2 baths apartment,850,"kelowna, bc, v1x 2z3",Apartment/Condo,4,2,Not specified,Not specified,Not specified,Not specified,Not specified,No pets,910,49.88776,-119.38686,88,85,49
-3 beds 3 baths townhouse,800,"kelowna, bc, v1v 0a4",Townhouse,3,3,in-unit laundry,Not specified,garage parking,central ac,unfurnished,dog and cat friendly,1371,49.92674,-119.40158,22,13,34
+fully furnished student residency,900,"kelowna, bc, v1x 2z3",Room,1,1,laundry in building,central heating,Not specified,central ac,unfurnished,No pets,150,49.88776,-119.38686,88,85,49
+4 beds 2 baths apartment,850,"kelowna, bc, v1x 2z3",Room,1,1,Not specified,Not specified,Not specified,Not specified,Not specified,No pets,150,49.88776,-119.38686,88,85,49
+3 beds 3 baths townhouse,800,"kelowna, bc, v1v 0a4",Room,1,1,in-unit laundry,Not specified,garage parking,central ac,unfurnished,dog and cat friendly,150,49.92674,-119.40158,22,13,34
 private room for rent,1200,"kelowna, bc, v1v 0a4",Room,1,1,in-unit laundry,central heating,garage parking,central ac,furnished,No pets,150,49.92674,-119.40158,22,13,34
 2 beds 2 bathrooms room only,1200,"kelowna, bc, v1y 0j1",Room,1,1,in-unit laundry,heating available,street parking,ac available,furnished,No pets,150,49.8935,-119.49063,53,99,56
 2 beds 1 bath house,900,"lake country, bc, v4v 1s8",House,2,1,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,1200,50.00796,-119.40302,15,29,-1
@@ -1042,15 +1041,15 @@ private room for rent,850,"kelowna, bc, v1p 1g2",Room,1,1,laundry available,Not 
 1 bed 0 5 bathrooms house,850,"kelowna, bc, v1x 3s6",Room,1,0,in-unit laundry,Not specified,garage parking,Not specified,unfurnished,No pets,1200,49.89354,-119.39848,72,87,48
 room for rent,950,"kelowna, bc, v1x 3s6",Room,1,1,in-unit laundry,heating available,parking available,central ac,furnished,No pets,150,49.89354,-119.39848,72,87,48
 2 yatak odası 1 banyo sıra ev,950,"kelowna, bc, v1x 3s6",Townhouse,2,1,Not specified,Not specified,Not specified,Not specified,unfurnished,dog friendly,1371,49.89354,-119.39848,72,87,48
-3 beds 2 baths house,990,"kelowna, bc, v1x 3s6",House,3,2,in-unit laundry,central heating,Not specified,ac available,unfurnished,No pets,1200,49.89354,-119.39848,72,87,48
+3 beds 2 baths house,990,"kelowna, bc, v1x 3s6",Room,1,1,in-unit laundry,central heating,Not specified,ac available,unfurnished,No pets,150,49.89354,-119.39848,72,87,48
 1 bed 1 bath townhouse,1050,"kelowna, bc, v1y 7c9",Townhouse,1,1,in-unit laundry,gas heating,street parking,ac available,Not specified,No pets,1371,49.89349,-119.48555,46,97,54
 lake view house in upper mission,3500,"kelowna, bc, v1w 5k5",House,3,2,in-unit laundry,central heating,garage parking,central ac,unfurnished,No pets,1200,49.80233,-119.46825,5,8,25
 1 bed 1 bath apartment,900,"kelowna, bc, v1w 5n4",Apartment/Condo,1,1,in-unit laundry,electric heating,parking available,ac available,unfurnished,No pets,910,49.86089,-119.46708,38,75,45
-2 beds 1 bath apartment,650,"kelowna, bc, v1x 5x8",Apartment/Condo,2,1,laundry in building,heating available,Not specified,Not specified,unfurnished,No pets,910,49.89336,-119.40229,66,86,47
+2 beds 1 bath apartment,650,"kelowna, bc, v1x 5x8",Room,1,1,laundry in building,heating available,Not specified,Not specified,unfurnished,No pets,150,49.89336,-119.40229,66,86,47
 2 beds 1 bath house,1900,"lake country, bc, v4v 1c1",House,2,1,in-unit laundry,central heating,parking available,central ac,Not specified,No pets,1300,50.13259,-119.45276,8,2,-1
 2 beds 2 baths apartment,2800,"kelowna, bc, v1y 1g7",Apartment/Condo,2,2,in-unit laundry,central heating,garage parking,central ac,unfurnished,No pets,910,49.86454,-119.49477,71,89,46
 private room for rent,875,"kelowna, bc, v1x 3x6",Room,1,1,laundry in building,Not specified,parking available,Not specified,furnished,No pets,150,49.88788,-119.40257,76,77,49
-3 beds 1 bath apartment,875,"kelowna, bc, v1x 3x6",Apartment/Condo,3,1,laundry available,heating available,parking available,ac available,unfurnished,No pets,910,49.88788,-119.40257,76,77,49
+3 beds 1 bath apartment,875,"kelowna, bc, v1x 3x6",Room,1,1,laundry available,heating available,parking available,ac available,unfurnished,No pets,150,49.88788,-119.40257,76,77,49
 1 bed 1 bath apartment,895,"kelowna, bc, v1x 3x6",Apartment/Condo,1,1,laundry in building,Not specified,parking available,Not specified,Not specified,No pets,910,49.88788,-119.40257,76,77,49
 3 beds 1 5 baths house,3000,"kelowna, bc, v1x 1g3",House,3,1,Not specified,Not specified,street parking,Not specified,unfurnished,No pets,1200,49.87945,-119.39699,45,71,39
 3 beds 3 baths townhouse,3100,"west kelowna, bc, v4t 2k1",Townhouse,3,3,in-unit laundry,central heating,garage parking,central ac,Not specified,No pets,1371,49.81951,-119.62177,3,16,-1
@@ -1066,32 +1065,32 @@ room for rent,900,"kelowna, bc, v1y 5j1",Room,1,1,Not specified,gas heating,stre
 3 beds 1 bath house,2250,"kelowna, bc, v1w 1j4",House,3,1,in-unit laundry,central heating,street parking,central ac,unfurnished,dog and cat friendly,1050,49.81332,-119.47736,11,63,26
 furnished 2 bedroom  1 bathroom basement suite,1900,"kelowna, bc, v1w 3b4",Apartment/Condo,2,1,in-unit laundry,Not specified,street parking,central ac,unfurnished,No pets,1400,49.80852,-119.45878,5,29,24
 3 beds 2 5 baths townhouse,3300,"kelowna, bc, v1y 5j3",Townhouse,3,2,in-unit laundry,gas heating,garage parking,central ac,unfurnished,dog and cat friendly,1450,49.87177,-119.48417,53,94,46
-roommate wanted,1200,"lake country, bc, v4v 1t9",House,3,2,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,1200,50.0316,-119.40228,52,35,-1
+roommate wanted,1200,"lake country, bc, v4v 1t9",Room,1,1,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,150,50.0316,-119.40228,52,35,-1
 2 beds 1 bath house,2000,"okanagan-similkameen, bc",House,2,1,laundry in building,heating available,parking available,ac available,Not specified,No pets,1000,49.39276,-120.14867,0,5,-1
 2 beds 1 bath townhouse,1500,"okanagan-similkameen, bc",Townhouse,2,1,in-unit laundry,Not specified,street parking,Not specified,unfurnished,No pets,1371,49.39276,-120.14867,0,5,-1
 2 beds 1 bath house,1600,"okanagan-similkameen, bc",House,2,1,in-unit laundry,gas heating,street parking,central ac,unfurnished,dog and cat friendly,1265,49.39276,-120.14867,0,5,-1
 3 beds 2 baths house,2450,"okanagan-similkameen, bc",House,3,2,laundry in building,central heating,street parking,central ac,Not specified,dog and cat friendly,1200,49.39276,-120.14867,0,5,-1
-4 beds 2 5 baths house,1234,"okanagan-similkameen, bc",House,4,2,laundry in building,Not specified,parking available,Not specified,unfurnished,No pets,2000,49.39276,-120.14867,0,5,-1
+4 beds 2 5 baths house,1234,"okanagan-similkameen, bc",Room,1,1,laundry in building,Not specified,parking available,Not specified,unfurnished,No pets,150,49.39276,-120.14867,0,5,-1
 1 bed 1 bath house,895,"okanagan-similkameen, bc",House,1,1,laundry in building,central heating,street parking,central ac,furnished,No pets,1200,49.39276,-120.14867,0,5,-1
 2 beds 2 baths house,2100,"west kelowna, bc, v4t 1v1",House,2,2,in-unit laundry,gas heating,street parking,ac available,unfurnished,No pets,1200,49.8507,-119.60125,2,12,-1
 4 beds 2 baths house,4800,"west kelowna, bc, v4t 1v1",House,4,2,in-unit laundry,heating available,garage parking,ac available,Not specified,dog and cat friendly,1800,49.8507,-119.60125,2,12,-1
-2 habitaciones 2 baños departamento,700,"kelowna, bc, v1w 3w1",Apartment/Condo,2,2,in-unit laundry,central heating,street parking,central ac,unfurnished,No pets,1400,49.8605,-119.48082,62,85,49
+2 habitaciones 2 baños departamento,700,"kelowna, bc, v1w 3w1",Room,1,1,in-unit laundry,central heating,street parking,central ac,unfurnished,No pets,150,49.8605,-119.48082,62,85,49
 2 beds 2 5 baths townhouse,3200,"kelowna, bc, v1y 5e6",Townhouse,2,2,in-unit laundry,central heating,garage parking,central ac,Not specified,No pets,1001,49.86903,-119.48802,65,98,47
 3 beds 2 5 baths townhouse,3200,"kelowna, bc, v1y 5e6",Townhouse,3,2,in-unit laundry,central heating,garage parking,central ac,unfurnished,dog and cat friendly,1371,49.86903,-119.48802,65,98,47
 basement for rent,2000,"kelowna, bc, v1x 7b9",House,2,1,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,1200,49.88622,-119.37972,62,63,47
 2 beds 2 baths apartment,2000,"west kelowna, bc, v4t 2z7",Apartment/Condo,2,2,in-unit laundry,electric heating,garage parking,ac available,unfurnished,dog and cat friendly,1190,49.86519,-119.60351,0,4,-1
 1 bed 1 bath house,950,"west kelowna, bc, v4t 1m4",House,1,1,Not specified,heating available,Not specified,ac available,unfurnished,No pets,1200,49.84871,-119.65491,2,16,-1
 1 bed 1 bath house,1100,"kelowna, bc, v1y 5c8",House,1,1,in-unit laundry,Not specified,parking available,Not specified,Not specified,dog and cat friendly,1200,49.86829,-119.48542,61,96,47
-2 beds 1 bath apartment,860,"kelowna, bc, v1y 5c6",Apartment/Condo,2,1,in-unit laundry,central heating,street parking,central ac,unfurnished,No pets,910,49.86831,-119.48965,64,97,47
+2 beds 1 bath apartment,860,"kelowna, bc, v1y 5c6",Room,1,1,in-unit laundry,central heating,street parking,central ac,unfurnished,No pets,150,49.86831,-119.48965,64,97,47
 1 bed 2 baths apartment,1950,"vernon, bc, v1h 2j6",Apartment/Condo,1,2,Not specified,central heating,garage parking,central ac,unfurnished,No pets,910,50.23826,-119.34485,4,15,20
-3 beds 2 baths townhouse,1000,"penticton, bc, v2a 4r2",Townhouse,3,2,laundry available,electric heating,street parking,central ac,Not specified,No pets,1371,49.48782,-119.57471,46,55,-1
+3 beds 2 baths townhouse,1000,"penticton, bc, v2a 4r2",Room,1,1,laundry available,electric heating,street parking,central ac,Not specified,No pets,150,49.48782,-119.57471,46,55,-1
 4 beds 2 baths house,3600,"coldstream, bc, v1b 1c9",House,4,2,in-unit laundry,central heating,Not specified,Not specified,unfurnished,No pets,1200,50.21997,-119.23702,12,10,-1
 private room for rent,900,"central okanagan, bc, v1x",Room,1,1,laundry in building,central heating,parking available,central ac,unfurnished,No pets,150,49.91081,-119.38279,19,40,50
 3 beds 2 baths house,2800,"west kelowna, bc, v1z 3m6",House,3,2,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,1200,49.89625,-119.54979,0,5,-1
 2 beds 2 baths apartment,2100,"lake country, bc, v4v 2n8",Apartment/Condo,2,2,in-unit laundry,central heating,garage parking,central ac,unfurnished,No pets,900,50.06948,-119.42031,12,11,-1
 2 beds 1 bath house,2000,"kelowna, bc, v1p 1v2",House,2,1,in-unit laundry,electric heating,street parking,Not specified,unfurnished,dog and cat friendly,1200,49.8817,-119.35142,8,22,20
 private room for rent,900,"kelowna, bc, v1p 1v2",Room,1,1,laundry available,heating available,street parking,Not specified,unfurnished,No pets,150,49.8817,-119.35142,8,22,20
-4 beds 2 baths house,750,"west kelowna, bc, v1z 3z1",House,4,2,Not specified,Not specified,Not specified,Not specified,Not specified,No pets,1200,49.8784,-119.56807,2,12,-1
+4 beds 2 baths house,750,"west kelowna, bc, v1z 3z1",Room,1,1,Not specified,Not specified,Not specified,Not specified,Not specified,No pets,150,49.8784,-119.56807,2,12,-1
 2 beds 1 bath house,1800,"penticton, bc, v2a 7v8",House,2,1,laundry available,central heating,street parking,central ac,unfurnished,No pets,1200,49.47139,-119.56962,12,32,-1
 1 bedroom 1 den basement suit,2000,"west kelowna, bc, v1z 3x9",House,2,1,laundry available,central heating,street parking,central ac,unfurnished,dog and cat friendly,1100,49.87866,-119.56137,1,11,-1
 1 bed 1 bath house,850,"west kelowna, bc, v4t 3k1",House,1,1,laundry in building,Not specified,Not specified,central ac,unfurnished,No pets,1200,49.83869,-119.62077,26,46,-1
@@ -1115,8 +1114,8 @@ studio 2 baths apartment,2350,"kelowna, bc, v1y 0b5",Apartment/Condo,1,2,Not spe
 1 bed 1 bath house,690,"penticton, bc, v2a 4y7",House,1,1,in-unit laundry,gas heating,street parking,central ac,Not specified,No pets,1200,49.4853,-119.57954,36,65,-1
 2 beds 2 baths apartment,3000,"kelowna, bc, v1y 4b7",Apartment/Condo,2,2,in-unit laundry,electric heating,garage parking,ac available,unfurnished,dog and cat friendly,950,49.88007,-119.46379,54,99,56
 1 bed 2 baths apartment,2200,"kelowna, bc, v1y 4b7",Apartment/Condo,1,2,in-unit laundry,heating available,garage parking,ac available,unfurnished,dog and cat friendly,1050,49.88007,-119.46379,54,99,56
-4 beds 4 baths house,1000,"kelowna, bc, v1x 6c2",House,4,4,in-unit laundry,central heating,parking available,central ac,Not specified,No pets,1200,49.89275,-119.41394,60,83,50
-4 beds 4 baths house,1250,"kelowna, bc, v1x 6c2",House,4,4,in-unit laundry,central heating,parking available,central ac,Not specified,No pets,1200,49.89275,-119.41394,60,83,50
+4 beds 4 baths house,1000,"kelowna, bc, v1x 6c2",Room,1,1,in-unit laundry,central heating,parking available,central ac,Not specified,No pets,150,49.89275,-119.41394,60,83,50
+4 beds 4 baths house,1250,"kelowna, bc, v1x 6c2",Room,1,1,in-unit laundry,central heating,parking available,central ac,Not specified,No pets,150,49.89275,-119.41394,60,83,50
 3 beds 2 baths apartment,2500,"kelowna, bc, v1w 3g7",Apartment/Condo,3,2,in-unit laundry,central heating,garage parking,central ac,unfurnished,No pets,970,49.84575,-119.48599,30,88,42
 unit for rent at playa del sol,2050,"kelowna, bc, v1w 3g7",Apartment/Condo,2,1,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,910,49.84575,-119.48599,30,88,42
 2 bed 2 bath condo for long or short term rent,2600,"kelowna, bc, v1w 3g7",Apartment/Condo,2,2,in-unit laundry,central heating,garage parking,central ac,unfurnished,dog and cat friendly,1100,49.84575,-119.48599,30,88,42
@@ -1148,7 +1147,7 @@ private room for rent,1110,"kelowna, bc, v1y 4m2",Room,1,1,in-unit laundry,Not s
 1 bed 1 bath room only,850,"kelowna, bc, v4v 1e5",Room,1,1,laundry in building,gas heating,street parking,central ac,unfurnished,dog friendly,150,50.01318,-119.39186,19,33,-1
 1 bed 1 bath house,683,"central okanagan, bc, v1z 3s8",House,1,1,in-unit laundry,central heating,parking available,central ac,Not specified,No pets,1200,49.99018,-119.49469,0,4,-1
 room for rent,850,"west kelowna, bc, v4t 3m4",Room,1,1,laundry available,central heating,street parking,central ac,unfurnished,No pets,150,49.8661,-119.6119,1,3,-1
-3 beds 2 baths house,900,"kelowna, bc, v1y 3j6",House,3,2,in-unit laundry,central heating,garage parking,central ac,Not specified,cat friendly,1200,49.86604,-119.47709,55,83,48
+3 beds 2 baths house,900,"kelowna, bc, v1y 3j6",Room,1,1,in-unit laundry,central heating,garage parking,central ac,Not specified,cat friendly,150,49.86604,-119.47709,55,83,48
 2 bed 1 bath w  large patio  close to downtown,2500,"kelowna, bc, v1y 5z7",Apartment/Condo,2,1,laundry in building,central heating,parking available,central ac,unfurnished,No pets,910,49.88249,-119.49589,64,98,60
 2 beds 1 bath house,1450,"west kelowna, bc, v4t 2r6",House,2,1,Not specified,gas heating,Not specified,central ac,Not specified,No pets,1100,49.83942,-119.66865,12,21,-1
 1 bed 1 bath house,950,"kelowna, bc, v1y 8k1",House,1,1,in-unit laundry,electric heating,parking available,Not specified,unfurnished,No pets,1200,49.90179,-119.48468,43,60,36
@@ -1175,11 +1174,11 @@ studio 0 baths house,950,"vernon, bc, v1b 2y4",House,1,0,Not specified,Not speci
 3 beds 2 5 baths house,4500,"kelowna, bc, v1v 1a5",House,3,2,in-unit laundry,heating available,parking available,ac available,unfurnished,No pets,1200,49.91782,-119.46863,9,32,0
 1 bed 1 bath house,1200,"kelowna, bc, v1x 6w6",House,1,1,laundry available,central heating,street parking,central ac,unfurnished,No pets,1200,49.88622,-119.37674,50,49,45
 1 bed 1 bath apartment,900,"kelowna, bc, v1v 3b1",Apartment/Condo,1,1,laundry in building,electric heating,parking available,ac available,unfurnished,No pets,910,49.92293,-119.39959,34,28,38
-3 beds 2 5 baths townhouse,950,"kelowna, bc, v1y 5m5",Townhouse,3,2,Not specified,Not specified,Not specified,Not specified,Not specified,No pets,1371,49.87549,-119.48517,50,94,55
+3 beds 2 5 baths townhouse,950,"kelowna, bc, v1y 5m5",Room,1,1,Not specified,Not specified,Not specified,Not specified,Not specified,No pets,150,49.87549,-119.48517,50,94,55
 1 bed 1 bath apartment,1880,"lake country, bc, v4v 2c4",Apartment/Condo,1,1,Not specified,electric heating,street parking,ac available,unfurnished,No pets,600,50.10012,-119.3624,0,3,-1
 2 beds 1 bath house,2200,"kelowna, bc, v1w 3y5",House,2,1,in-unit laundry,central heating,parking available,central ac,unfurnished,No pets,900,49.85413,-119.47736,26,84,46
 2 beds 2 baths house,3300,"west kelowna, bc, v4t 1y6",House,2,2,in-unit laundry,central heating,parking available,central ac,unfurnished,No pets,1200,49.83881,-119.57765,0,18,-1
-5 beds 2 baths townhouse,850,"kelowna, bc, v1x 2p5",Townhouse,5,2,in-unit laundry,central heating,parking available,ac available,unfurnished,No pets,1371,49.90123,-119.39525,64,68,51
+5 beds 2 baths townhouse,850,"kelowna, bc, v1x 2p5",Room,1,1,in-unit laundry,central heating,parking available,ac available,unfurnished,No pets,150,49.90123,-119.39525,64,68,51
 rooms for rent,750,"kelowna, bc, v1p 1g4",Room,1,1,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,150,49.86026,-119.34941,20,13,24
 taking applications for 4bed 3bath house jan1 april30,3000,"lake country, bc, v4v 1m2",House,4,3,Not specified,Not specified,Not specified,Not specified,Not specified,No pets,1200,50.02473,-119.41091,30,35,-1
 1 bed 1 bath house,657,"west kelowna, bc, v4t 3c5",House,1,1,laundry available,central heating,parking available,central ac,Not specified,No pets,1200,49.84055,-119.59922,15,31,-1
@@ -1193,7 +1192,7 @@ private room for rent,900,"west kelowna, bc, v1z 3z6",Room,1,1,laundry available
 1 bed 1 bath apartment,1900,"vernon, bc, v1h",Apartment/Condo,1,1,laundry in building,central heating,parking available,central ac,Not specified,No pets,375,50.20021,-119.49104,3,4,-1
 1 bed 1 bath apartment,1000,"kelowna, bc, v1x 3x9",Apartment/Condo,1,1,in-unit laundry,heating available,street parking,ac available,unfurnished,No pets,910,49.88625,-119.40271,64,69,49
 3 beds 2 baths apartment,3395,"kelowna, bc, v1v 2w7",Apartment/Condo,3,2,in-unit laundry,central heating,garage parking,central ac,unfurnished,No pets,1150,49.95345,-119.39963,0,14,29
-3 beds 2 baths apartment,1100,"kelowna, bc, v1v 2w7",Apartment/Condo,3,2,Not specified,Not specified,Not specified,Not specified,furnished,No pets,910,49.95345,-119.39963,0,14,29
+3 beds 2 baths apartment,1100,"kelowna, bc, v1v 2w7",Room,1,1,Not specified,Not specified,Not specified,Not specified,furnished,No pets,150,49.95345,-119.39963,0,14,29
 2 beds 1 bath house,2395,"kelowna, bc, v1y 2b7",House,2,1,in-unit laundry,heating available,parking available,ac available,Not specified,dog and cat friendly,1200,49.88076,-119.49305,65,96,60
 private room for rent,2200,"kelowna, bc, v1w 3n8",Apartment/Condo,2,2,Not specified,Not specified,Not specified,Not specified,unfurnished,dog and cat friendly,910,49.8609,-119.47162,52,80,48
 5 beds 4 5 baths house,10000,"kelowna, bc, v1w 5m6",House,5,4,in-unit laundry,Not specified,garage parking,central ac,unfurnished,No pets,1200,49.80066,-119.47419,4,8,23
@@ -1205,9 +1204,9 @@ private room for rent,900,"kelowna, bc, v1x 1k1",Room,1,1,laundry in building,No
 1 bed 1 bath apartment,1200,"lumby, bc, v0e 0b3",Apartment/Condo,1,1,laundry available,electric heating,Not specified,Not specified,Not specified,No pets,650,50.24734,-118.96647,0,51,-1
 2 beds 1 bath house,2200,"west kelowna, bc, v1z 3b9",House,2,1,in-unit laundry,central heating,parking available,central ac,unfurnished,No pets,1250,49.87452,-119.53689,14,20,-1
 1 bed 1 bath flat,1500,"kelowna, bc, v1w 3k7",Apartment/Condo,1,1,laundry in building,Not specified,parking available,ac available,Not specified,No pets,250,49.84373,-119.49044,29,88,42
-出租单间,1100,"kelowna, bc, v1y 3b8",Townhouse,3,2,Not specified,central heating,garage parking,central ac,unfurnished,No pets,1371,49.87953,-119.48131,55,99,58
+出租单间,1100,"kelowna, bc, v1y 3b8",Room,1,1,Not specified,central heating,garage parking,central ac,unfurnished,No pets,150,49.87953,-119.48131,55,99,58
 commercial office save for rent,875,"kelowna, bc, v1y 2b5",House,1,1,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,1200,49.88329,-119.49356,67,96,59
-furnished bedroom in shared house,850,"kelowna, bc, v1w 3m5",House,4,2,in-unit laundry,electric heating,street parking,central ac,furnished,No pets,1200,49.855,-119.47442,39,84,47
+furnished bedroom in shared house,850,"kelowna, bc, v1w 3m5",Room,1,1,in-unit laundry,electric heating,street parking,central ac,furnished,No pets,150,49.855,-119.47442,39,84,47
 2 beds 1 bath house,1700,"vernon, bc, v1b",House,2,1,in-unit laundry,central heating,Not specified,central ac,Not specified,No pets,1150,50.31021,-119.21709,0,-1,0
 2 beds 1 bath apartment,2500,"kelowna, bc, v1y 2e1",Apartment/Condo,2,1,in-unit laundry,heating available,garage parking,ac available,Not specified,No pets,690,49.89083,-119.49198,58,97,58
 3 beds 3 baths townhouse,3000,"kelowna, bc, v1w 3l9",Townhouse,3,3,in-unit laundry,central heating,garage parking,central ac,unfurnished,No pets,1371,49.84979,-119.48043,19,87,41
@@ -1222,7 +1221,7 @@ studio 0 baths house,3000,"summerland, bc, v0h 1z2",House,1,0,Not specified,elec
 2 beds 2 baths apartment,2250,"kelowna, bc, v1v 2e6",Apartment/Condo,2,2,in-unit laundry,gas heating,garage parking,Not specified,unfurnished,No pets,890,49.91072,-119.4444,42,79,38
 abbott st  4 bedroom,4000,"kelowna, bc, v1y 1a9",House,4,2,laundry in building,central heating,parking available,central ac,unfurnished,No pets,2000,49.88466,-119.49934,61,99,58
 2 beds 1 bath house,1900,"kelowna, bc, v1p 1m8",House,2,1,laundry available,heating available,parking available,ac available,unfurnished,No pets,650,49.8713,-119.35562,29,39,25
-2 beds 2 baths apartment,825,"kelowna, bc, v1v 2c5",Apartment/Condo,2,2,Not specified,Not specified,Not specified,Not specified,Not specified,No pets,111,49.94542,-119.42827,13,20,19
+2 beds 2 baths apartment,825,"kelowna, bc, v1v 2c5",Room,1,1,Not specified,Not specified,Not specified,Not specified,Not specified,No pets,150,49.94542,-119.42827,13,20,19
 bedroom for rent in lower mission suite,900,"kelowna, bc, v1y 5g8",Room,1,1,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,150,49.87097,-119.4934,54,97,46
 3 beds 2 baths room only,950,"kelowna, bc, v1x 1m2",Room,1,1,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,150,49.8834,-119.3856,73,76,47
 one bedroom for rent in two bedroom apartment,1000,"kelowna, bc, v1w 3p3",Room,1,1,in-unit laundry,heating available,parking available,ac available,unfurnished,No pets,150,49.86087,-119.46174,30,71,38
@@ -1232,7 +1231,7 @@ female roommate wanted one bedroom for rent in two bedroom apartment,1000,"kelow
 3 beds 2 baths townhouse,3300,"penticton, bc, v2a 4v8",Townhouse,3,2,Not specified,central heating,parking available,central ac,unfurnished,dog and cat friendly,1371,49.48556,-119.57815,35,61,-1
 private room for rent,1350,"west kelowna, bc, v1z 1y4",Room,1,1,laundry available,Not specified,parking available,Not specified,unfurnished,No pets,150,49.85773,-119.54354,0,15,-1
 1 bed 1 bath house,1000,"kelowna, bc, v1x 2k7",House,1,1,Not specified,Not specified,Not specified,Not specified,Not specified,No pets,1200,49.89585,-119.37972,43,76,48
-3 beds 3 baths house,1100,"kelowna, bc, v1x 2k7",House,3,3,in-unit laundry,central heating,street parking,Not specified,Not specified,No pets,1200,49.89585,-119.37972,43,76,48
+3 beds 3 baths house,1100,"kelowna, bc, v1x 2k7",Room,1,1,in-unit laundry,central heating,street parking,Not specified,Not specified,No pets,150,49.89585,-119.37972,43,76,48
 1 bed 1 bath apartment,1800,"kelowna, bc, v1y 9k5",Apartment/Condo,1,1,in-unit laundry,electric heating,street parking,central ac,unfurnished,No pets,800,49.90403,-119.48495,10,63,33
 3 beds 1 bath house,2500,"west kelowna, bc, v4t 2h7",House,3,1,in-unit laundry,electric heating,garage parking,Not specified,unfurnished,No pets,2000,49.82953,-119.63047,44,51,-1
 1 bed 1 bath apartment available april1 2023 fully furnished,2650,"kelowna, bc, v1y 0j8",Apartment/Condo,1,1,in-unit laundry,central heating,garage parking,central ac,unfurnished,No pets,640,49.88405,-119.45293,53,96,56
@@ -1250,7 +1249,7 @@ shared 1500 sq ft 2 bdr suite,800,"kelowna, bc, v1x 6r8",House,1,1,Not specified
 2 beds 1 bath house,2550,"kelowna, bc, v1y 7a3",House,2,1,in-unit laundry,Not specified,street parking,Not specified,unfurnished,dog and cat friendly,1200,49.8927,-119.48535,46,97,54
 3 beds 2 baths townhouse,2500,"penticton, bc, v2a 4h8",Townhouse,3,2,Not specified,Not specified,Not specified,Not specified,Not specified,No pets,1371,49.5002,-119.58651,44,51,-1
 3 beds 3 baths townhouse,3000,"penticton, bc, v2a 4h8",Townhouse,3,3,in-unit laundry,Not specified,Not specified,Not specified,Not specified,No pets,1371,49.5002,-119.58651,44,51,-1
-2 beds 1 bath apartment,850,"kelowna, bc, v1p 1r5",Apartment/Condo,2,1,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,910,49.86963,-119.36122,30,36,25
+2 beds 1 bath apartment,850,"kelowna, bc, v1p 1r5",Room,1,1,Not specified,Not specified,Not specified,Not specified,unfurnished,No pets,150,49.86963,-119.36122,30,36,25
 3 beds 1 bath house,2400,"vernon, bc, v1t 6p8",House,3,1,laundry available,heating available,street parking,Not specified,unfurnished,No pets,1000,50.25563,-119.28623,41,20,29
 panoramic wood lake view  2bdrm  1 bthrm  february 1  june 1 2023,1800,"lake country, bc, v4v 1g4",House,2,1,Not specified,Not specified,Not specified,Not specified,unfurnished,dog friendly,1100,50.0502,-119.42082,25,14,-1
 private room for rent,750,"vernon, bc, v1t 5e1",Room,1,1,Not specified,central heating,street parking,central ac,unfurnished,No pets,150,50.26408,-119.27079,98,61,42
@@ -1260,6 +1259,6 @@ private room for rent,1200,"kelowna, bc, v1v 2v4",Room,1,1,in-unit laundry,Not s
 2 beds 1 bath house,3850,"kelowna, bc, v1w 1a2",House,2,1,in-unit laundry,electric heating,street parking,ac available,unfurnished,No pets,1000,49.84223,-119.48933,30,88,43
 1 bed 1 bath house,950,"kelowna, bc, v1y 2r7",House,1,1,in-unit laundry,central heating,street parking,central ac,Not specified,No pets,1200,49.86395,-119.48816,75,97,48
 private room for rent,1100,"penticton, bc, v2a 8t7",Room,1,1,Not specified,Not specified,Not specified,Not specified,furnished,dog and cat friendly,150,49.53912,-119.56932,0,28,-1
-shared senior living,1100,"west kelowna, bc, v4t 1v3",House,3,2,in-unit laundry,gas heating,street parking,central ac,furnished,No pets,1400,49.84618,-119.60449,14,24,-1
+shared senior living,1100,"west kelowna, bc, v4t 1v3",Room,1,1,in-unit laundry,gas heating,street parking,central ac,furnished,No pets,150,49.84618,-119.60449,14,24,-1
 2 beds 1 bath house,2800,"kelowna, bc, v1v 2n2",House,2,1,in-unit laundry,gas heating,street parking,Not specified,unfurnished,No pets,1200,49.905,-119.46058,15,52,37
 short term rental  march 1st april 30  2023  early move in available,1050,"kelowna, bc, v1y 3v9",House,1,1,Not specified,Not specified,Not specified,Not specified,Not specified,No pets,1200,49.89012,-119.46401,23,84,51
