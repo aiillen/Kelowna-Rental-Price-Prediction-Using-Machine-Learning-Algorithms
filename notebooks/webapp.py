@@ -82,4 +82,3 @@ if st.button('Predict'):
     st.write(f"Predicted rental price: ${prediction[0]:,.0f} per month")
 
 
-# Output the predicted price
