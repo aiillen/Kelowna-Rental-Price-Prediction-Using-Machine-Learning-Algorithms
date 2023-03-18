@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 import xgboost as xgb
 import requests
+import joblib
+
 
 st.write("# Rental Price Prediction in Kelowna")
 
@@ -71,7 +73,6 @@ data = {
 df = pd.DataFrame(data)
 
 # Load the trained model
-import joblib
 model = joblib.load("fhs_xgb_model.pkl")
 
 # Make prediction
