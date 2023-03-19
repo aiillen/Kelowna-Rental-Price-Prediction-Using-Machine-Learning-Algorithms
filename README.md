@@ -22,7 +22,8 @@ I used a variety of machine learning algorithms to build the predictive model, i
 
 Overall, this project demonstrates the power of data and machine learning in predicting real estate prices. By leveraging web scraping techniques and the Walk Score API, I was able to collect and preprocess a large amount of data and build an accurate predictive model. This project can be used as a tool to help students and young professionals estimate the real value of a property and make informed decisions about their housing choices.
 
-
+## Link to web app
+https://aiillen-kelowna-rental-price-prediction--notebookswebapp-uhrqjs.streamlit.app/
 
 
 
