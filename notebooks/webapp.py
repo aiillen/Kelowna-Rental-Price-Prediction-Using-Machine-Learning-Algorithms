@@ -67,7 +67,6 @@ Returns:
     data = response.json()
     walk_score = data.get("walkscore", -1)
     bike_score = data.get("bike", {}).get("score", -1)
-    j
     # return a dictionary containing the location scores
     return {'Bike Score': bike_score, 'Walk Score': walk_score, 'lng': lng, 'lat': lat}
 
