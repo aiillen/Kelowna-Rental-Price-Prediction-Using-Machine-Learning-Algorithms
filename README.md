@@ -16,13 +16,17 @@ After collecting the data, I performed extensive cleaning and preprocessing to e
 
 ## Modeling
 
-I used a variety of machine learning algorithms to build the predictive model, including linear regression, random forest, and gradient boosting. I evaluated the performance of each model using various metrics such as mean squared error (MSE), R-squared, and cross-validation. I also performed feature selection and engineering to identify the most important predictors and improve the model's performance.
+I utilized several machine learning algorithms in building the predictive model, such as linear regression, random forest, and gradient boosting. To evaluate the performance of each model, I employed various metrics such as mean squared error (MSE), R-squared, and cross-validation. In addition, I carried out feature selection and engineering to identify the most important predictors and improve the model's performance.
+
+After comparing all the models, XGBoost displayed the best performance, so I selected it as the final model.
 
 ## Conclusion
 
 Overall, this project demonstrates the power of data and machine learning in predicting real estate prices. By leveraging web scraping techniques and the Walk Score API, I was able to collect and preprocess a large amount of data and build an accurate predictive model. This project can be used as a tool to help students and young professionals estimate the real value of a property and make informed decisions about their housing choices.
 
-## Link to web app
+## Web app
+After selecting XGBoost as the final model, I proceeded to build a web application using Streamlit. The app provides a user-friendly interface that enables users to input the required data and obtain the predicted output. To ensure the model's accessibility, I deployed it on a cloud platform and generated a link that can be accessed by anyone.
+
 https://aiillen-kelowna-rental-price-prediction--notebookswebapp-uhrqjs.streamlit.app/
 
 
