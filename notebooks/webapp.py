@@ -2,8 +2,7 @@ import streamlit as st
 import pandas as pd
 import xgboost as xgb
 import requests
-import joblib
-
+import pickle
 
 st.write("# Rental Price Prediction in Kelowna")
 
@@ -72,11 +71,12 @@ data = {
 }
 df = pd.DataFrame(data)
 
-# Load the trained model
-model = joblib.load("fhs_xgb_model.pkl")
+
+with open('fhs_xgb_model.pkl', 'rb') as file:
+    fhs_xgb_model = pickle.load(file)
 
 # Make prediction
-prediction = model.predict(xgb.DMatrix(df))
+prediction = fhs_xgb_model.predict(xgb.DMatrix(df))
 
 if st.button('Predict'):
     st.write(f"Predicted rental price: ${prediction[0]:,.0f} per month")
