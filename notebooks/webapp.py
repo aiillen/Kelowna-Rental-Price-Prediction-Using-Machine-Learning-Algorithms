@@ -72,7 +72,7 @@ data = {
 df = pd.DataFrame(data)
 
 
-with open('/git/Kelowna-Rental-Price-Prediction-Using-Machine-Learning-Algorithms/notebooks/fhs_xgb_model.pkl', 'rb') as file:
+with open('/Kelowna-Rental-Price-Prediction-Using-Machine-Learning-Algorithms/notebooks/fhs_xgb_model.pkl', 'rb') as file:
     fhs_xgb_model = pickle.load(file)
 
 # Make prediction
